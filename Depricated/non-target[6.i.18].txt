@@ -1,0 +1,892 @@
+----------------------------------------------------------------------------------------------------
+Data Entered 19.x.2017
+----------------------------------------------------------------------------------------------------
+
+Andrew Jansen (19.x.2017)
+Malaise 2C 24.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Tettigoniidae)
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Chrysomelidae, Cleridae)
+- Lepidoptera (Gelechiidae, Geometridae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Chalcididae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Calliphoridae, Muscidae, Sarcophagidae, Syrphidae, Tachinidae, Tipulidae, "Acalyptratae")
+
+Andrew Jansen (19.x.2017)
+Malaise UTC2 25.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Tettigoniidae)
+- Hemiptera (Cicadellidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Gelechiidae, Pyralidae)
+- Hymenoptera (Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chironomidae, Muscidae, Sarcophagidae, Syrphidae, Tachinidae, "Acalyptratae")
+
+Andrew Jansen (19.x.2017)
+Malaise 3C 20.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Cicadellidae, Pentatomidae)
+- Neuroptera (Hemerobiidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Hesperiidae, Pyralidae)
+- Hymenoptera (Braconidae, Chalcididae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Agromyzidae, Anthomyiidae, Asilidae, Calliphoridae, Drosophilidae, Muscidae, Sarcophagidae, Scathophagidae, Syrphidae, Tachinidae)
+
+Andrew Jansen (19.x.2017)
+Malaise 3C 13.vii.2015
+Insecta
+- Hemiptera (Cicadellidae, Miridae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Gelechiidae, Hesperiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Bombyliidae, Muscidae, Psychodidae, Sarcophagidae, Scathophagidae, Syrphidae, Tachinidae, Tephritidae, "Acalyptratae")
+
+Andrew Jansen (19.x.2017)
+Malaise 1A 15.vii.2015
+Insecta
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Curculionidae, Melyridae)
+- Lepidoptera (Gelechiidae, Hesperiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Formicidae, Halictidae, Ichneumonidae, Mutillidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Ceratopogonidae, Chamaemyiidae, Chironomidae, Muscidae, Phoridae, Sarcophagidae, Syrphidae, Tachinidae, Tephritidae)
+
+Andrew Jansen (19.x.2017)
+Malaise 1A 22.vii.2015
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Coleoptera (Cleridae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Agromyzidae, Asilidae, Calliphoridae, Chloropidae, Heleomyzidae, Lauxaniidae, Muscidae, Phoridae, Pipunculidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Ulidiidae)
+
+Andrew Jansen (19.x.2017)
+Malaise 3B 27.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Rhopalidae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Hesperiidae, Pyralidae, Pteromalidae)
+- Hymenoptera (Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Agromyzidae, Anthomyiidae, Asilidae, Bombyliidae, Calliphoridae, Cecidomyiidae, Ceratopogonidae, Culicidae, Drosophilidae, Ephydridae, Heleomyzidae, Milichiidae, Muscidae, Mycetophilidae, Phoridae, Psychodidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Tipulidae, Ulidiidae)
+
+Andrew Jansen (19.x.2017)
+Malaise 1B 15.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Geometridae, Pyralidae, Noctuidae)
+- Hymenoptera (Braconidae, Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Chloropidae, Conopidae, Heleomyzidae, Muscidae, Sarcophagidae, Syrphidae, Tachinidae, Tephritidae)
+
+Andrew Jansen (19.x.2017)
+Malaise 1A 8.vii.2015
+Insecta
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Hemerobiidae)
+- Coleoptera (Cleridae, Coccinellidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Halictidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Bombyliidae, Calliphoridae, Cecidomyiidae, Ceratopogonidae, Chironomidae, Chloropidae, Chyromyidae, Conopidae, Drosophilidae, Heleomyzidae, Lauxaniidae, Lonchaetidae, Milichiidae, Muscidae, Phoridae, Pipunculidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Ulidiidae)
+
+----------------------------------------------------------------------------------------------------
+Data Entered 13.xii.2017
+----------------------------------------------------------------------------------------------------
+
+Andrew Jansen (13.xii.2017)
+Malaise UTC2 18.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Tettigoniidae)
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Chrysomelidae, Coccinellidae, Melyridae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Pteromalidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Asilidae, Camillidae, Cecidomyiidae, Ceratopogonidae, Chironomidae, Chloropidae, Heleomyzidae, Lonchaetidae, Muscidae, Phoridae, Sarcophagidae, Sciaridae, Sepsidae, Syrphidae, Tachinidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 3B 6.vii.2015
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Hesperiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Bombyliidae, Ceratopogonidae, Chironomidae, Chloropidae, Culicidae, Dolichopodidae, Drosophilidae, Ephydridae, Heleomyzidae, Lauxaniidae, Milichiidae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Tipulidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise UTC2 11.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Bruchidae, Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Tiphiidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Ceratopogonidae, Chloropidae, Heleomyzidae, Muscidae, Phoridae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 1B 24.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Hemiptera (Cicadellidae, Coreidae, Lygaeidae, Miridae, Pentatomidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Bombyliidae, Calliphoridae, Chironomidae, Chloropidae, Conopidae, Culicidae, Dolichopodidae, Heleomyzidae, Lauxaniidae, Muscidae, Pipunculidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tipulidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 1B 8.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Hemiptera (Cicadellidae, Lygaeidae, Miridae)
+- Coleoptera (Anobiidae, Lycidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Asilidae, Ceratopogonidae, Chloropidae, Culicidae, Ephydridae, Heleomyzidae, Lauxaniidae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae, Syrphidae, Tachinidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 1A 1.vii.2015
+Arachnida
+- Araneae (Salticidae)
+Insecta
+- Hemiptera (Anthocoridae, Cicadellidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Gelechiidae, Hesperiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Bombyliidae, Calliphoridae, Ceratopogonidae, Chironomidae, Chloropidae, Culicidae, Ephydridae, Heleomyzidae, Muscidae, Phoridae, Pipunculidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 1A 24.vi.2015
+Insecta
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae, Miridae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Gelechiidae, Hepialidae, Noctuidae, Pieridae, Pyralidae)
+- Hymenoptera (Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Vespidae)
+- Diptera (Anthomyiidae, Asilidae, Bombyliidae, Calliphoridae, Ceratopogonidae, Chironomidae, Chloropidae, Heleomyzidae, Lauxaniidae, Lonchaetidae, Milichiidae, Muscidae, Periscelididae, Phoridae, Pipunculidae, Sarcophagidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Therevidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 3C 26.vi.2015
+Arachnida
+-Araneae
+Insecta
+- Hemiptera (Cicadellidae, Lygaeidae, Miridae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Bethylidae, Braconidae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Scelionidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chironomidae, Chloropidae, Conopidae, Dolichopodidae, Heleomyzidae, Lauxaniidae, Lonchaetidae, Milichiidae, Muscidae, Phoridae, Pipunculidae, Psychodidae, Sarcophagidae, Sepsidae, Syrphidae, Tachinidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 3C 6.vii.2015
+Arachnida
+-Araneae
+Insecta
+- Hemiptera (Cicadellidae, Miridae)
+- Neuroptera (Hemerobiidae)
+- Coleoptera (Coccinellidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Bethylidae, Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Bombyliidae, Calliphoridae, Chloropidae, Culicidae, Dolichopodidae, Ephydridae, Heleomyzidae, Lauxaniidae, Lonchaetidae, Milichiidae, Muscidae, Phoridae, Sarcophagidae, Syrphidae, Tachinidae, Tephritidae, Therevidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 3C 27.vii.2015
+Arachnida
+-Araneae
+Insecta
+- Orthoptera (Tettigoniidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Pentatomidae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Crambidae, Gelechiidae, Hesperiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Agromyzidae, Anthomyiidae, Asilidae, Bombyliidae, Calliphoridae, Carnidae, Cecidomyiidae, Ceratopogonidae, Chironomidae, Chloropidae, Culicidae, Dolichopodidae, Heleomyzidae, Lauxaniidae, Lonchaetidae, Muscidae, Phoridae, Psychodidae, Rhinophoridae, Sarcophagidae, Simuliidae, Syrphidae, Tachinidae, Tephritidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise UTC2 27.vi.2015
+Insecta
+- Hemiptera (Cicadellidae, Delphacidae, Miridae, Pentatomidae)
+- Neuroptera (Hemerobiidae)
+- Coleoptera (Anobiidae, Cleridae, Coccinellidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Halictidae, Mutillidae, Pompilidae, Tiphiidae)
+- Diptera (Asilidae, Ceratopogonidae, Chloropidae, Dolichopodidae, Lauxaniidae, Muscidae, Phoridae, Pipunculidae, Sarcophagidae, Syrphidae, Tachinidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 2C 25.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Coreidae, Miridae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Chrysomelidae, Coccinellidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae)
+- Diptera (Calliphoridae, Chloropidae, Dolichopodidae, Heleomyzidae, Lauxaniidae, Muscidae, Phoridae, Sarcophagidae, Sciaridae, Sepsidae, Syrphidae, Tachinidae, Tephritidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 2C 10.vii.2015
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Pentatomidae)
+- Neuroptera (Chrysopidae, Hemerobiidae)
+- Coleoptera (Cleridae)
+- Lepidoptera (Crambidae, Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Bethylidae, Braconidae, Formicidae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae)
+- Diptera (Anthomyiidae, Calliphoridae, Ceratopogonidae, Chloropidae, Culicidae, Dolichopodidae, Drosophilidae, Heleomyzidae, Milichiidae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae, Syrphidae, Tachinidae, Tephritidae, Tipulidae, Ulidiidae)
+
+Andrew Jansen (13.xii.2017)
+Malaise 3B 26.vi.2015
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Delphacidae, Lygaeidae, Miridae)
+- Coleoptera (Coccinellidae)
+- Neuroptera (Hemerobiidae)
+- Lepidoptera (Gelechiidae, Noctuidae, Pyralidae)
+- Hymenoptera (Braconidae, Chrysididae, Halictidae, Ichneumonidae, Mutillidae, Pompilidae, Sphecidae, Tiphiidae, Vespidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Conopidae, Dolichopodidae, Heleomyzidae, Lauxaniidae, Muscidae, Phoridae, Pipunculidae, Sarcophagidae, Syrphidae, Tachinidae, Tephritidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall UTC1 18.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Aphididae, Cicadellidae, Lygaeidae, Pentatomidae, Rhopalidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Corylophidae, Elateridae, Histeridae, Nitidulidae, Scarabaeidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Geometridae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Ephydridae, Heleomyzidae, Muscidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall UTC1 4.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Coreidae, Lygaeidae)
+- Thysanoptera (Thripidae)
+- Coleoptera (Carabidae, Curculionidae, Tenebrionidae, Trogidae, Scarabaeidae, Staphylinidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall UTC2 11.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Thysanura (Lepismatidae)
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Elateridae, Scarabaeidae, Silphidae, Tenebrionidae, Trogidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Eucoilidae, Formicidae, Pompilidae, Scelionidae, Sclerogibbidae)
+- Diptera (Anthomyiidae, Calliphoridae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 1A 22.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Phasmatodea (Heteronemiidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Psyllidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Curculionidae, Histeridae, Meloidae, Melyridae, Scarabaeidae, Staphylinidae, Tenebrionidae, Trogidae, Endomychidae)
+- Hymenoptera (Formicidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Muscidae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 3A 6.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae)
+- Coleoptera (Carabidae, Cerambycidae, Chrysomelidae, Elateridae, Silphidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae, Pompilidae, Pteromalidae)
+- Diptera (Anthomyiidae, Asilidae, Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae, Scatopsidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 3C 26.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Pompilidae)
+- Diptera (Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 3B 26.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Rhaphidophoridae)
+- Mantodea (Mantidae)
+- Hemiptera (Anthocoridae, Cicadellidae, Lygaeidae, Miridae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Endomychidae, Melyridae, Staphylinidae, Silphidae, Tenebrionidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Eucoilidae, Formicidae, Mutillidae, Pompilidae, Scelionidae)
+- Diptera (Chloropidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 2C 10.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Gryllidae)
+- Hemiptera (Cicadellidae)
+- Coleoptera (Carabidae, Curculionidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Mutillidae, Scelionidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall UTC2 25.vii.2015
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae)
+- Coleoptera (Carabidae, Tenebrionidae, Trogidae)
+- Diptera (Calliphoridae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 1B 1.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+-Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Cerambycidae, Chrysomelidae, Curculionidae, Histeridae, Meloidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Ephydridae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall UTC2 4.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Dictyopharidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Anthicidae, Carabidae, Colydiidae, Curculionidae, Scarabaeidae, Staphylinidae, Tenebrionidae, Trogidae)
+- Psocoptera (Psocidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae, Scelionidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 1C 1.vii.2015
+Chilopoda
+- Scolopendromorpha (Scolopendridae)
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Bruchidae, Carabidae, Cleridae, Meloidae, Tenebrionidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Formicidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Ephydridae, Sarcophagidae)
+
+Andrew Jansen (13.xii.2017)
+Pitfall 2B 17.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Anthicidae, Carabidae, Chrysomelidae, Cleridae, Endomychidae, Nitidulidae, Staphylinidae, Trogidae)
+- Hymenoptera (Eulophidae, Formicidae, Ichneumonidae, Scelionidae)
+- Diptera (Chloropidae, Drosophilidae, Sarcophagidae, Sciaridae)
+
+----------------------------------------------------------------------------------------------------
+Data Entered 7.i.2018
+----------------------------------------------------------------------------------------------------
+
+Andrew Jansen (7.i.2018)
+Pitfall 2C 17.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Cleridae, Elateridae, Meloidae, Nitidulidae, Silphidae, Tenebrionidae, Trogidae)
+- Hymenoptera (Formicidae, Scelionidae, Vespidae)
+- Diptera (Anthomyiidae, Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae, Tachinidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1C 24.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Margarodidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Histeridae, Meloidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Bethylidae, Formicidae, Mutillidae, Pompilidae, Scelionidae, Sphecidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2A 24.vii.2015
+Arachnida
+- Acari
+- Araneae
+- Solifugae
+Insecta
+- Collembola (Entomobryidae)
+- Orthoptera (Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Silphidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae, Pompilidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Sarcophagidae, Sepsidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1A 1.vii.2015
+Arachnida
+- Araneae
+- Solifugae
+Insecta
+- Orthoptera (Acrididae, Mogoplistidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Miridae) 
+- Coleoptera (Carabidae, Silphidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Sphecidae)
+- Diptera (Anthomyiidae, Bombyliidae, Chloropidae, Phoridae, Sarcophagidae, Scatopsidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1A 24.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Mogoplistidae)
+- Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Silphidae, Tenebrionidae)
+- Hymenoptera (Formicidae)
+- Diptera (Bombyliidae, Calliphoridae, Chloropidae, Muscidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC1 25.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Cerambycidae, Chrysomelidae, Cleridae, Nitidulidae, Silphidae, Tenebrionidae, Trogidae)
+- Hymenoptera (Formicidae, Pompilidae)
+- Diptera (Anthomyiidae, Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC3 25.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Thysanoptera (Thripidae)
+- Coleoptera (Carabidae, Cleridae, Endomychidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Encyrtidae, Eucoilidae, Formicidae, Mutillidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Cecidomyiidae, Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1A 15.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Mogoplistidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Pentatomidae)
+- Coleoptera (Carabidae, Chrysomelidae, Melyridae, Nitidulidae, Scarabaeidae, Staphylinidae, Tenebrionidae, Trogidae)
+- Hymenoptera (Eucoilidae, Formicidae, Scelionidae, Sphecidae, Vespidae)
+- Diptera (Anthomyiidae, Asilidae, Chloropidae, Calliphoridae, Muscidae, Sarcophagidae, Tachinidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC3 18.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae, Pentatomidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Histeridae, Nitidulidae, Scarabaeidae, Staphylinidae, Tenebrionidae, Trogidae)
+- Hymenoptera (Eucoilidae, Formicidae, Scelionidae, Tiphiidae)
+- Diptera (Anthomyiidae, Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2B 10.vii.2015
+Arachnida
+- Araneae
+- Solifugae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Cleridae, Silphidae, Tenebrionidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Diapriidae, Formicidae, Scelionidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Muscidae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3B 27.vii.2015
+Chilopoda
+- Scolopendromorpha (Scolopendridae)
+Arachnida
+- Araneae
+- Solifugae
+Insecta
+- Orthoptera (Acrididae)
+- Mantodea (Mantidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Thysanoptera (Thripidae)
+- Coleoptera (Carabidae, Cerambycidae, Curculionidae, Nitidulidae, Ochodeidae, Tenebrionidae)
+- Hymenoptera (Formicidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3B 13.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Gryllidae, Mogoplistidae, Rhaphidophoridae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Chrysomelidae, Elateridae, Endomychidae, Scarabaeidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Chalcididae, Eucoilidae, Formicidae, Scelionidae, Vespidae)
+- Diptera (Anthomyiidae, Ceratopogonidae, Chloropidae, Culicidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2A 25.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae)
+- Coleoptera (Carabidae, Curculionidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Pompilidae, Sphecidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1B 24.vi.2015
+Chilopoda
+- Scolopendromorpha (Scolopendridae)
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Rhaphidophoridae)
+- Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Pentatomidae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Meloidae, Tenebrionidae, Trogidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae, Mutillidae, Pompilidae)
+- Diptera (Asilidae, Calliphoridae, Chloropidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2B 24.vii.2015
+Arachnida
+- Acari
+- Araneae
+Insecta
+- Collembola (Entomobryidae)
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Anthicidae, Carabidae, Chrysomelidae, Cleridae, Silphidae, Tenebrionidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Formicidae)
+- Diptera (Anthomyiidae, Calliphoridae, Phoridae, Sarcophagidae, Sciaridae, Tachinidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1C 8.vii.2015
+Chilopoda
+- Scolopendromorpha (Scolopendridae)
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Cixiidae, Pentatomidae)
+- Coleoptera (Carabidae, Elateridae, Scarabaeidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Mutillidae, Pompilidae)
+- Diptera (Asilidae, Calliphoridae, Chloropidae, Dolichopodidae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC2 27.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Mantodea (Mantidae)
+- Hemiptera (Cicadellidae, Rhopalidae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Histeridae, Meloidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Scelionidae)
+- Diptera (Chloropidae, Phoridae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC2 18.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Cleridae, Curculionidae, Elateridae, Meloidae, Scarabaeidae, Silphidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Mutillidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Dolichopodidae, Ephydridae, Sarcophagidae, Scatopsidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3C 27.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Elateridae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Formicidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Muscidae, Phoridae, Sarcophagidae, Scathophagidae, Scatopsidae, Sciaridae, Syrphidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1C 22.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Rhaphidophoridae)
+- Hemiptera (Cicadellidae, Lygaeidae, Pentatomidae)
+- Thysanoptera (Thripidae)
+- Coleoptera (Carabidae, Curculionidae, Melyridae, Nitidulidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Noctuidae, Pyralidae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Chloropidae, Muscidae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3B 20.vii.2015
+Arachnida
+- Acari
+- Araneae
+- Solifugae
+Insecta
+- Collembola (Entomobryidae)
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Lygaeidae, Miridae)
+- Thysanoptera (Thripidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Carabidae, Cerambycidae, Chrysomelidae, Endomychidae, Scarabaeidae, Staphylinidae, Tenebrionidae)
+- Hymenoptera (Diapriidae, Formicidae, Halictidae, Mutillidae, Pompilidae)
+- Diptera (Anthomyiidae, Chloropidae, Dolichopodidae, Heleomyzidae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae, Tachinidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2B 3.vii.2015
+Arachnida
+- Acari
+- Araneae
+Insecta
+- Collembola (Entomobryidae)
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Cicadellidae)
+- Coleoptera (Carabidae, Chrysomelidae, Curculionidae, Scarabaeidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Eucoilidae, Formicidae, Pompilidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3C 20.vii.2015
+Arachnida
+- Acari
+- Araneae
+Insecta
+- Collembola (Entomobryidae)
+- Orthoptera (Acrididae, Mogoplistidae, Tettigoniidae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Elateridae, Nitidulidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Mutillidae, Scelionidae, Tiphiidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Ephydridae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1A 8.vii.2015
+Arachnida
+- Solifugae
+Insecta
+- Orthoptera (Acrididae, Rhaphidophoridae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Endomychidae, Nitidulidae, Scarabaeidae, Silphidae, Tenebrionidae, Trogidae)
+- Lepidoptera (Gelechiidae)
+- Hymenoptera (Braconidae, Formicidae)
+- Diptera (Anthomyiidae, Calliphoridae, Carnidae, Chloropidae, Dolichopodidae, Muscidae, Pipunculidae, Sarcophagidae, Tachinidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC3 4.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae, Pentatomidae)
+- Coleoptera (Carabidae, Chrysomelidae, Elateridae, Scarabaeidae, Silphidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Pyralidae)
+- Hymenoptera (Eucoilidae, Formicidae, Mutillidae, Pompilidae, Scelionidae)
+- Diptera (Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae, Scatopsidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC3 11.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Hemiptera (Alydidae, Cicadellidae, Lygaeidae)
+- Coleoptera (Anthicidae, Carabidae, Chrysomelidae, Curculionidae, Histeridae, Nitidulidae, Scarabaeidae, Silphidae, Staphylinidae, Tenebrionidae, Trogidae)
+- Hymenoptera (Dryinidae, Eucoilidae, Formicidae, Scelionidae)
+- Diptera (Anthomyiidae, Chloropidae, Dolichopodidae, Calliphoridae, Muscidae, Sarcophagidae, Scatopsidae, Sepsidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 1C 15.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae)
+- Mantodea (Mantidae)
+- Hemiptera (Aradidae, Cicadellidae, Lygaeidae, Pentatomidae)
+- Coleoptera (Carabidae, Cerambycidae, Nitidulidae, Ochodeidae, Scarabaeidae, Staphylinidae, Tenebrionidae, Trogidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Chloropidae, Culicidae, Drosophilidae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2A 10.vii.2015
+Arachnida
+- Acari
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Neuroptera (Chrysopidae)
+- Coleoptera (Carabidae, Histeridae, Meloidae, Silphidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Halictidae)
+- Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Drosophilidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 2C 24.vii.2015
+Diplopoda
+- Spirobolida
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Rhaphidophoridae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Elateridae, Meloidae, Nitidulidae, Silphidae, Staphylinidae, Tenebrionidae)
+- Lepidoptera (Noctuidae)
+- Hymenoptera (Formicidae, Mymaridae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Phoridae, Sarcophagidae, Sciaridae)
+
+Andrew Jansen (7.i.2018)
+Pitfall UTC1 11.vii.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Coleoptera (Carabidae, Chrysomelidae, Elateridae, Scarabaeidae, Trogidae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae)
+- Diptera (Anthomyiidae, Calliphoridae, Ceratopogonidae, Chloropidae, Heleomyzidae, Phoridae, Sarcophagidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3A 26.vi.2015
+Arachnida
+- Araneae
+Insecta
+- Orthoptera (Acrididae, Gryllidae, Rhaphidophoridae)
+- Hemiptera (Cicadellidae, Lygaeidae)
+- Mantodea (Mantidae)
+- Thysanoptera (Thripidae)
+- Coleoptera (Carabidae, Chrysomelidae, Cleridae, Curculionidae, Meloidae, Tenebrionidae)
+- Hymenoptera (Formicidae, Pompilidae, Scelionidae, Sphecidae)
+- Diptera (Anthomyiidae, Asilidae, Calliphoridae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae)
+
+Andrew Jansen (7.i.2018)
+Pitfall 3A 26.vi.2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
