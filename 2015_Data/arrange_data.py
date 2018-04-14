@@ -24,6 +24,9 @@ class sample:
         self.__orders__ = orders
         self.__identifier__ = identifier
         
+    def __str__(self):
+        return '{self.__method__} {self.__block__}{self.__site__} {self.__date__}'.format(self=self)
+        
     def date(self):
         return self.__date__
     
@@ -60,23 +63,40 @@ def sample_data(files, master = 'master_2015.csv', families='non-target_2015.txt
     
     fam_file = open(families, 'r')
     master_list = open(master, 'r')
-    #create samples (of each sample type) and add them to smpl_set using this list, add data later via add_order method
+    
+    for event in master_list:
+        blocksite, date_bad = event.split(',')
+        day, month, year = date_bad.split('.')
+        newdate = month + day + year
+        smpl_set.add(sample(newdate, 'malaise', blocksite[:-1], blocksite[-1]))
+        smpl_set.add(sample(newdate, 'pitfall', blocksite[:-1], blocksite[-1]))
+        smpl_set.add(sample(newdate, 'sweep', blocksite[:-1], blocksite[-1]))
+    master_list.close()
     
     for name in files:
         biomass = open('.\data\\' + name, 'r')
         i = 0
-        method = 'none'
-        parent = 'none'
+        method = 'not specified'
+        parent = 'not specified'
         for line in biomass:
+            #rework and get rid of nested mess...
             i += 1
             if i == 1:
                 method = line.split(',')[3].lower()
             elif i > 2:
-                taxon, order, date, A1, B1, C1, A2, B2, C2, A3, B3, C3, UTC1, UTC2, UTC3 = line.split(',')
-                
+                taxon, order, date = line[0:3].split(',')
+                blocksites = line[3:].split(',')
+                if taxon != '':
+                    parent = taxon
+                else:
+                    pass
+                if 
+                for entry in blocksites:
+                    
             else:
                 pass
-        biomass.close()
+    
+    biomass.close()
     fam_file.close()
     return smpl_set
 
