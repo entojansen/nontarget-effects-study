@@ -6,22 +6,23 @@ Created on Fri Apr 13 10:33:08 2018
 '''
 
 import os
+from copy import deepcopy as dc
 
 class sample:
     
     '''
     Args should be formatted as follows:
         date (as month.date.year, ex: vii.03.2015); method (malaise, pitfall, or sweep);
-        block (as in block 2 if sample from 2A); site (as in site A if sample from 2A);
-        orders (dictionary of orders as key, values as a tuple containing float order biomass
+        block (as in block 2 if sample from 2A); site (as in site A if sample from 2A); init makes
+        __orders__ (dictionary of orders as key, values as a list containing float order biomass
         and list of alphabetized family names).
     '''
-    def __init__(self, date, method, block, site, orders={}, identifier='M. Andrew Jansen'):
+    def __init__(self, date, method, block, site, identifier='M. Andrew Jansen'):
         self.__date__ = date
         self.__method__ = method
         self.__block__ = block
         self.__site__ = site
-        self.__orders__ = orders
+        self.__orders__ = {}
         self.__identifier__ = identifier
         
     def __str__(self):
@@ -42,8 +43,8 @@ class sample:
     def orders(self):
         return self.__orders__
     
-    def add_order(self, name, mass, families):
-        self.__orders__[name] = (mass, families)
+    def add_order(self, taxon, mass, families):
+        self.__orders__[taxon] = [mass, families]
     
     def identifier(self):
         return self.__identifier__
@@ -55,52 +56,124 @@ def get_files(path='.\data'):
     filelist = os.listdir(path)
     return filelist 
 
-def sample_data(files, master = 'master_2015.csv', families='non-target_2015.txt'):
+def sample_data(files, master='master_2015.csv', families='non-target_2015.txt'):
     '''
     Returns a set of samples from 2015.
     '''
-    smpl_set = set()
+    possible = ['1A', '1B', '1C', '2A', '2B', '2C', '3A', '3B', '3C', 'UTC1', 'UTC2', 'UTC3']
+    smpl_list = []
     
-    fam_file = open(families, 'r')
+    fams = open(families, 'r')
+    fam_file = []
+    for part in fams:
+        fam_file.append(part)
     master_list = open(master, 'r')
     
     for event in master_list:
+        event = event.strip(' \t\n\r')
         blocksite, date_bad = event.split(',')
         day, month, year = date_bad.split('.')
-        newdate = month + day + year
-        smpl_set.add(sample(newdate, 'malaise', blocksite[:-1], blocksite[-1]))
-        smpl_set.add(sample(newdate, 'pitfall', blocksite[:-1], blocksite[-1]))
-        smpl_set.add(sample(newdate, 'sweep', blocksite[:-1], blocksite[-1]))
-    master_list.close()
+        if len(day) == 1:
+            day = '0'+day
+        else:
+            pass
+        newdate = month+'.'+day+'.'+year
+        smpl_list.append(sample(newdate, 'malaise', blocksite[:-1], blocksite[-1]))
+        smpl_list.append(sample(newdate, 'pitfall', blocksite[:-1], blocksite[-1]))
+        smpl_list.append(sample(newdate, 'sweep', blocksite[:-1], blocksite[-1]))
     
     for name in files:
         biomass = open('.\data\\' + name, 'r')
         i = 0
-        method = 'not specified'
+        coll_meth = 'not specified'
         parent = 'not specified'
+        order_name = 'not specified'
         for line in biomass:
-            #rework and get rid of nested mess...
             i += 1
+            line = line.strip(' \t\n\r')
+            
             if i == 1:
-                method = line.split(',')[3].lower()
+                coll_meth = line.split(',')[3].lower()
             elif i > 2:
-                taxon, order, date = line[0:3].split(',')
-                blocksites = line[3:].split(',')
+                taxon = line.split(',')[0]
+                current = line.split(',')[1]
+                date_bad2 = line.split(',')[2]
+                day2, month2, year2 = date_bad2.split('-')
+                
+                if month2.lower() == 'jun':
+                    month_roman = 'vi'
+                elif month2.lower() == 'jul':
+                    month_roman = 'vii'
+                else:
+                    print('unspecified month: '+date_bad2)
+                
+                if len(day2) == 1:
+                    day2 = '0'+day2
+                else:
+                    pass
+                
+                date = month_roman+'.'+day2+'.20'+year2
+                
+                blocksites = line.split(',')[3:]
+                
                 if taxon != '':
                     parent = taxon
                 else:
                     pass
-                if 
-                for entry in blocksites:
-                    
+                
+                if current != '':
+                    order_name = current
+                else:
+                    pass
             else:
                 pass
-    
-    biomass.close()
-    fam_file.close()
-    return smpl_set
+            
+            if parent.lower() == 'insecta':
+                for num,entry in enumerate(blocksites):
+                    family = []
+                    location = possible[num]
+                    for sample_event in smpl_list:
+                        if ((coll_meth+' '+location+' '+date).lower()) == (str(sample_event).lower()):
+                            if entry == '':
+                                entry = 0
+                            else:
+                                entry = float(entry[0:6])
+                            mass = entry
+                            for ind, rows in enumerate(fam_file):
+                                row = rows.strip(' \t\n\r')
+                                if row.lower() == str(sample_event).lower():
+                                    for next_row in fam_file[ind:]:
+                                        next_row = next_row.strip(' \t\n\r')
+                                        if order_name.lower() in next_row.lower():
+                                            for fam_name in next_row.split(' ')[2:]:
+                                                family.append(dc(fam_name.strip('()')))
+                                            break
+                                        elif next_row.strip(' \t\n\r') == '':
+                                            break
+                                        else:
+                                            pass
+                                    break
+                                else:
+                                    pass
+                            sample_event.add_order(order_name, mass, dc(family))
+                            break
+                        else:
+                            pass
+            else:
+                pass
+        biomass.close()
+    fams.close()
+    master_list.close()
+    return smpl_list
 
 def main():
-    print('Hello world.')
+    samples = sample_data(get_files())
+    for item in samples:
+        if 'vi.25.2015' in item.date():
+            print(item)
+            print(item.orders())
+        else:
+            pass
+
 
 main()

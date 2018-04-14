@@ -1357,7 +1357,7 @@ Insecta
 - Hymenoptera (Eucoilidae, Formicidae, Scelionidae, Sphecidae, Vespidae)
 - Diptera (Anthomyiidae, Asilidae, Chloropidae, Calliphoridae, Muscidae, Sarcophagidae, Tachinidae)
 
-Pitfall 1A 22.vii.2015
+Pitfall 1A vii.22.2015
 Arachnida
 - Araneae
 Insecta
@@ -1383,7 +1383,7 @@ Insecta
 - Hymenoptera (Formicidae, Mutillidae, Pompilidae)
 - Diptera (Asilidae, Calliphoridae, Chloropidae, Phoridae, Sarcophagidae)
 
-Pitfall 1B 1.vii.2015
+Pitfall 1B vii.01.2015
 Arachnida
 - Araneae
 Insecta
@@ -1394,7 +1394,7 @@ Insecta
 - Lepidoptera (Noctuidae)
 - Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Ephydridae, Phoridae, Sarcophagidae)
 
-Pitfall 1B 8.vii.2015
+Pitfall 1B vii.08.2015
 Arachnida
 - Acari
 - Araneae
@@ -1404,7 +1404,7 @@ Arachnida
 - Hymenoptera (Formicidae, Pompilidae, Scelionidae, Sphecidae)
 - Diptera (Anthomyiidae, Asilidae, Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae)
 
-Pitfall 1B 15.vii.2015
+Pitfall 1B vii.15.2015
 Arachnida
 - Araneae
 Insecta
@@ -1415,7 +1415,7 @@ Insecta
 - Hymenoptera (Formicidae, Scelionidae)
 - Diptera (Anthomyiidae, Chloropidae, Sarcophagidae, Sciaridae)
 
-Pitfall 1B 22.vii.2015
+Pitfall 1B vii.22.2015
 Arachnida
 - Araneae
 Insecta
@@ -1440,7 +1440,7 @@ Insecta
 - Hymenoptera (Bethylidae, Formicidae, Mutillidae, Pompilidae, Scelionidae, Sphecidae)
 - Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Sarcophagidae)
 
-Pitfall 1C 1.vii.2015
+Pitfall 1C vii.01.2015
 Chilopoda
 - Scolopendromorpha (Scolopendridae)
 Arachnida
@@ -1599,7 +1599,7 @@ Insecta
 - Hymenoptera (Diapriidae, Formicidae, Scelionidae)
 - Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Muscidae, Sarcophagidae)
 
-Pitfall 2B 17.vii.2015
+Pitfall 2B vii.17.2015
 Arachnida
 - Araneae
 Insecta
@@ -1623,8 +1623,9 @@ Insecta
 - Lepidoptera (Gelechiidae)
 - Hymenoptera (Formicidae)
 - Diptera (Anthomyiidae, Calliphoridae, Phoridae, Sarcophagidae, Sciaridae, Tachinidae)
-Andrew Jansen (12.i.2018)
-Pitfall 2C 25.vi.2015
+
+
+Pitfall 2C vi.25.2015
 Chilopoda
 - Scolopendromorpha (Scolopendridae)
 Arachnida
@@ -1648,7 +1649,7 @@ Insecta
 - Hymenoptera (Formicidae, Pompilidae, Sphecidae)
 - Diptera (Calliphoridae, Chloropidae, Dolichopodidae, Muscidae, Phoridae, Sarcophagidae, Sciaridae)
 
-Pitfall 2C 10.vii.2015
+Pitfall 2C vii.10.2015
 Arachnida
 - Araneae
 Insecta
@@ -1696,8 +1697,9 @@ Insecta
 - Coleoptera (Carabidae, Chrysomelidae, Cleridae, Curculionidae, Meloidae, Tenebrionidae)
 - Hymenoptera (Formicidae, Pompilidae, Scelionidae, Sphecidae)
 - Diptera (Anthomyiidae, Asilidae, Calliphoridae, Muscidae, Phoridae, Sarcophagidae, Scatopsidae)
-Andrew Jansen (13.xii.2017)
-Pitfall 3A 6.vii.2015
+
+
+Pitfall 3A vii.06.2015
 Arachnida
 - Araneae
 Insecta
@@ -1707,8 +1709,9 @@ Insecta
 - Lepidoptera (Pyralidae)
 - Hymenoptera (Formicidae, Pompilidae, Pteromalidae)
 - Diptera (Anthomyiidae, Asilidae, Chloropidae, Dolichopodidae, Ephydridae, Phoridae, Sarcophagidae, Scatopsidae)
-Andrew Jansen (12.i.2018)
-Pitfall 3A 13.vii.2015
+
+
+Pitfall 3A vii.13.2015
 Arachnida
 - Araneae
 Insecta
@@ -1719,7 +1722,7 @@ Insecta
 - Hymenoptera (Bethylidae, Formicidae, Scelionidae)
 - Diptera (Anthomyiidae, Calliphoridae, Chloropidae, Dolichopodidae, Ephydridae, Sarcophagidae, Sciaridae, Sphaeroceridae)
 
-Pitfall 3A 20.vii.2015
+Pitfall 3A vii.20.2015
 Diplopoda
 - Spirobolida
 Arachnida
@@ -1750,7 +1753,7 @@ Insecta
 - Hymenoptera (Bethylidae, Diapriidae, Encyrtidae, Eucoilidae, Formicidae, Halictidae, Mutillidae, Pompilidae, Scelionidae, Sphecidae, Tiphiidae)
 - Diptera (Anthomyiidae, Calliphoridae, Cecidomyiidae, Chloropidae, Dolichopodidae, Heleomyzidae, Muscidae, Sarcophagidae, Scatopsidae)
 
-Pitfall 3B 26.vi.2015
+Pitfall 3B vi.26.2015
 Arachnida
 - Araneae
 Insecta
@@ -1818,7 +1821,7 @@ Insecta
 - Hymenoptera (Formicidae)
 - Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Sarcophagidae)
 
-Pitfall 3C 26.vi.2015
+Pitfall 3C vi.26.2015
 Arachnida
 - Araneae
 Insecta
@@ -1883,7 +1886,7 @@ Insecta
 - Hymenoptera (Chrysididae, Formicidae, Pompilidae, Scelionidae)
 - Diptera (Anthomyiidae, Chloropidae, Phoridae, Sarcophagidae, Sciaridae)
 
-Pitfall UTC1 4.vii.2015
+Pitfall UTC1 vii.04.2015
 Arachnida
 - Araneae
 Insecta
@@ -1906,7 +1909,7 @@ Insecta
 - Hymenoptera (Formicidae, Pompilidae, Scelionidae)
 - Diptera (Anthomyiidae, Calliphoridae, Ceratopogonidae, Chloropidae, Heleomyzidae, Phoridae, Sarcophagidae)
 
-Pitfall UTC1 18.vii.2015
+Pitfall UTC1 vii.18.2015
 Arachnida
 - Araneae
 Insecta
@@ -1940,7 +1943,7 @@ Insecta
 - Hymenoptera (Formicidae, Scelionidae)
 - Diptera (Chloropidae, Phoridae, Sciaridae)
 
-Pitfall UTC2 4.vii.2015
+Pitfall UTC2 vii.04.2015
 Arachnida
 - Araneae
 Insecta
@@ -1953,7 +1956,7 @@ Insecta
 - Hymenoptera (Formicidae, Scelionidae)
 - Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Dolichopodidae, Phoridae, Sarcophagidae, Sciaridae)
 
-Pitfall UTC2 11.vii.2015
+Pitfall UTC2 vii.11.2015
 Arachnida
 - Araneae
 Insecta
@@ -1976,7 +1979,7 @@ Insecta
 - Hymenoptera (Formicidae, Mutillidae)
 - Diptera (Anthomyiidae, Asilidae, Calliphoridae, Chloropidae, Dolichopodidae, Ephydridae, Sarcophagidae, Scatopsidae, Sciaridae)
 
-Pitfall UTC2 25.vii.2015
+Pitfall UTC2 vii.25.2015
 Insecta
 - Orthoptera (Acrididae, Gryllidae)
 - Hemiptera (Cicadellidae)
