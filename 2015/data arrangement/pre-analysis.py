@@ -77,13 +77,14 @@ def read_data(datafile='sampling_data_2015.txt'):
 
 
 def corrections(sample_list):
-    """Applies corrections to misidentifications."""
+    """Applies corrections to misidentifications and removes immatures."""
     for event in sample_list:
         try:
             event.orders('Neuroptera')[0] += event.orders('Trichoptera')[0]
             event.orders('Trichoptera')[0] = 0
+            del(event.orders()['Immatures (larvae)'])
         except KeyError:
-            pass
+            del(event.orders()['Immatures (larvae)'])
     return sample_list
 
 
@@ -191,9 +192,84 @@ def tables(sample_list):
         print(key, malaise_data[key])
 
 
+def dataframer(sample_list, output=False, outfile='raw_data.txt'):
+    """Generates tables of averages for bulk sample mass and diversity."""
+    data_out = []
+    data_headers = ['method', 'year', 'month', 'day', 'block', 'site',
+                    'event', 'order', 'mass', 'family_count', ['family_list']]
+    data_out.append(data_headers)
+
+    schedule_2015 = {'1': ['vi.24', 'vi.25', 'vi.26', 'vi.27'],
+                     '2': ['vii.01', 'vii.03', 'vii.06', 'vii.04'],
+                     '3': ['vii.08', 'vii.10', 'vii.13', 'vii.11'],
+                     '4': ['vii.15', 'vii.17', 'vii.20', 'vii.18'],
+                     '5': ['vii.22', 'vii.24', 'vii.27', 'vii.25']}
+
+    schedule_2016 = {'1': ['vi.22', 'vi.23', 'vi.24', 'vi.25'],
+                     '2': ['vi.29', 'vi.30', 'vii.01', 'vii.02'],
+                     '3': ['vii.06', 'vii.07', 'vii.08', 'vii.09'],
+                     '4': ['vii.13', 'vii.14', 'vii.15', 'vii.16'],
+                     '5': ['vii.20', 'vii.23', 'vii.22', 'vii.23']}  # 23 twice
+
+    for event in sample_list:
+
+        if '2015' in event.date():
+            schedule = schedule_2015
+        else:
+            schedule = schedule_2016
+
+        month, day, year = event.date().split('.')
+
+        for key, val in schedule.items():
+            if event.date()[:-5] in val:
+                week = key
+            else:
+                pass
+
+        for key, val in event.orders().items():
+            new_row = [event.method(), year, month, day, event.block(),
+                       event.site(), week, key, val[0], len(val[1]), val[1]]
+            data_out.append(new_row)
+
+    if output:
+        with open(outfile, 'w') as outfile:
+            for item in data_out[0][:-1]:
+                print(item, end=';', file=outfile)
+            print(data_out[0][-1][0], file=outfile)
+            for row in sorted(data_out[1:]):
+                for item in row[:-1]:
+                    print(item, end=';', file=outfile)
+
+                if len(row[-1]) == 0:
+                    print('NA', file=outfile)
+                elif len(row[-1]) == 1:
+                    print(row[-1][0], file=outfile)
+                else:
+                    for family in row[-1][:-1]:
+                        print(family, end='', file=outfile)
+                    print(row[-1][-1], file=outfile)
+    else:
+        for item in data_out[0][:-1]:
+            print(item, end=';')
+        print(data_out[0][-1][0])
+        for row in sorted(data_out[1:]):
+            for item in row[:-1]:
+                print(item, end=';')
+
+            if len(row[-1]) == 0:
+                print('NA')
+            elif len(row[-1]) == 1:
+                print(row[-1][0])
+            else:
+                for family in row[-1][:-1]:
+                    print(family, end='')
+                print(row[-1][-1])
+
+
 def main():
     samples = corrections(read_data())
     tables(samples)
+    dataframer(samples, output=True)
 
 
 main()
