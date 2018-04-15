@@ -5,6 +5,8 @@ Created on Sat Apr 14 14:00:58 2018
 
 @author: flashcock
 """
+import numpy
+from copy import deepcopy as dc
 
 
 class sample:
@@ -117,48 +119,88 @@ def tables(sample_list):
                      '5': ['vii.20', 'vii.23', 'vii.22', 'vii.23']}  # 23 twice
 
     for event in sample_list:
-        event.block() = b
+        b = event.block()
+        d = event.date()
+        week = 'na'
         mass = 0
         families = 0
+        year = 'na'
+
+        if '2015' in event.date():
+            schedule = schedule_2015
+            year = '2015'
+        else:
+            schedule = schedule_2016
+            year = '2016'
+
         for val in event.orders().values():
             mass += val[0]
             families += len(val[1])
-        if 'malaise' in str(event).lower():
-            if '2015' in event.date():
-                malaise = malaise_data.get(b, [[0], [0], []])
-                malaise[2].append(event.site())
-                malaise[0][0] = (malaise[0][0]
-                                 * len(malaise[2] - 1)
-                                 + mass) / len(malaise[2])
-                malaise[1][0] = (malaise[1][0]
-                                 * len(malaise[2] - 1)
-                                 + families) / len(malaise[2])
-                malaise_data[b] = malaise
-                # add week number into this process and repeat...
+
+        for key, val in schedule.items():
+            if d[:-5] in val:
+                week = key
             else:
                 pass
+
+        if 'malaise' in str(event).lower():
+            malaise = malaise_data.get((year + '|' + b + '|' + week),
+                                       [0, 0, []])
+            malaise[2].append(event.site())
+            malaise[0] = (malaise[0]
+                          * (len(malaise[2]) - 1)
+                          + mass) / len(malaise[2])
+            malaise[1] = (malaise[1]
+                          * (len(malaise[2]) - 1)
+                          + families) / len(malaise[2])
+            malaise_data[(year + '|' + b + '|' + week)] = malaise
         elif 'pitfall' in str(event).lower():
-            pass
+            pitfall = pitfall_data.get((year + '|' + b + '|' + week),
+                                       [0, 0, []])
+            pitfall[2].append(event.site())
+            pitfall[0] = (pitfall[0]
+                          * (len(pitfall[2]) - 1)
+                          + mass) / len(pitfall[2])
+            pitfall[1] = (pitfall[1]
+                          * (len(pitfall[2]) - 1)
+                          + families) / len(pitfall[2])
+            pitfall_data[(year + '|' + b + '|' + week)] = pitfall
         elif 'sweep' in str(event).lower():
-            pass
+            sweep = sweep_data.get((year + '|' + b + '|' + week),
+                                   [0, 0, []])
+            sweep[2].append(event.site())
+            sweep[0] = (sweep[0]
+                        * (len(sweep[2]) - 1)
+                        + mass) / len(sweep[2])
+            sweep[1] = (sweep[1]
+                        * (len(sweep[2]) - 1)
+                        + families) / len(sweep[2])
+            sweep_data[(year + '|' + b + '|' + week)] = sweep
         else:
             pass
 
+    for key in malaise_data.keys():
+        bulk_data[key] = [malaise_data[key][0]
+                          + pitfall_data[key][0]
+                          + sweep_data[key][0],
+                          malaise_data[key][1]
+                          + pitfall_data[key][1]
+                          + sweep_data[key][1]]
+
+    for key in sorted(malaise_data.keys()):
+        print(key, malaise_data[key])
 
 
 def main():
     samples = corrections(read_data())
-    for event in samples:
-        if '2015' in event.date():
-            print(event)
-            print(event.orders('Trichoptera')[0])
+    tables(samples)
 
 
 main()
 
 # second arrange data into a neat looking table
 # third statistics, look at:
-#   overall correspondence b/w sample weight and diversity
+#   overall correspondence b/w sample weight and diversity, by type
 #   correspondence b/w sample weight and diversity but within each order
 #   comparisons between blocks for overall diversity and sample weight
 #   comparisons between blocks for weight of individual pollinator orders
