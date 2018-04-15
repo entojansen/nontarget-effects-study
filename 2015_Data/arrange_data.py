@@ -49,7 +49,7 @@ class sample:
     def identifier(self):
         return self.__identifier__
 
-def get_files(path='.\data'):
+def get_files(path='./data'):
     '''
     Retrieves filenames in directory.
     '''
@@ -83,7 +83,7 @@ def sample_data(files, master='master_2015.csv', families='non-target_2015.txt')
         smpl_list.append(sample(newdate, 'sweep', blocksite[:-1], blocksite[-1]))
     
     for name in files:
-        biomass = open('.\data\\' + name, 'r')
+        biomass = open('./data/' + name, 'r')
         i = 0
         coll_meth = 'not specified'
         parent = 'not specified'
@@ -166,14 +166,15 @@ def sample_data(files, master='master_2015.csv', families='non-target_2015.txt')
     master_list.close()
     return smpl_list
 
+def output(smpl_list, outfile='sampling_data_2015.txt'):
+    ###Create output file###
+    outfile=open(outfile, 'w')
+    for entry in smpl_list:
+        print(entry.method(), entry.date(), entry.block(), entry.site(), entry.orders(), file=outfile, sep='|')
+    outfile.close()
+
 def main():
     samples = sample_data(get_files())
-    for item in samples:
-        if 'vi.25.2015' in item.date():
-            print(item)
-            print(item.orders())
-        else:
-            pass
-
+    output(samples)
 
 main()

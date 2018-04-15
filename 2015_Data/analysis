@@ -1,0 +1,168 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Apr 14 14:00:58 2018
+
+@author: flashcock
+"""
+
+
+class sample:
+    """Custom class for sample events to organize data.
+
+    Keyword Arguments:
+        date (as month.date.year, ex: vii.03.2015)
+        method (malaise, pitfall or sweep)
+        block (as in block 2 if sample from 2A)
+        site (as in site A if sample from 2A)
+
+    init makes __orders__ (dictionary of orders as key, values as a list
+    containing float order biomass and list of alphabetized family names).
+    """
+
+    def __init__(self, method, date, block, site):
+        self.__method__ = method
+        self.__date__ = date
+        self.__block__ = block
+        self.__site__ = site
+        self.__orders__ = {}
+        self.__identifier__ = 'M. Andrew Jansen'
+
+    def __str__(self):
+        return '{} {}{} {}'.format(self.__method__,
+                                   self.__block__,
+                                   self.__site__,
+                                   self.__date__)
+
+    def date(self):
+        return self.__date__
+
+    def method(self):
+        return self.__method__
+
+    def block(self):
+        return self.__block__
+
+    def site(self):
+        return self.__site__
+
+    def orders(self, key='na'):
+        if key == 'na':
+            return self.__orders__
+        else:
+            return self.__orders__[key]
+
+    def add_order(self, taxon, mass, families):
+        self.__orders__[taxon] = [mass, families]
+
+    def import_orders(self, literal_dict):
+        self.__orders__ = eval(literal_dict)
+
+    def identifier(self):
+        return self.__identifier__
+
+
+def read_data(datafile='sampling_data_2015.txt'):
+    """Imports data from an ordered txt file and creates a list of samples."""
+    sample_list = []
+    with open(datafile, 'r') as file:
+        for line in file:
+            method, date, block, site, orders = line.split('|')
+            new_sample = sample(method, date, block, site)
+            new_sample.import_orders(orders)
+            sample_list.append(new_sample)
+    return sample_list
+
+
+def corrections(sample_list):
+    """Applies corrections to misidentifications."""
+    for event in sample_list:
+        try:
+            event.orders('Neuroptera')[0] += event.orders('Trichoptera')[0]
+            event.orders('Trichoptera')[0] = 0
+        except KeyError:
+            pass
+    return sample_list
+
+
+def output(sample_list, outfile='sampling_data_2015_corrected.txt'):
+    """Creates corrected output file."""
+    with open(outfile, 'w') as outfile:
+        for entry in sample_list:
+            print(entry.method(),
+                  entry.date(),
+                  entry.block(),
+                  entry.site(),
+                  entry.orders(),
+                  file=outfile, sep='|')
+
+
+def tables(sample_list):
+    """Generates tables of averages for bulk sample mass and diversity."""
+    bulk_data = {}
+    malaise_data = {}
+    pitfall_data = {}
+    sweep_data = {}
+
+    schedule_2015 = {'1': ['vi.24', 'vi.25', 'vi.26', 'vi.27'],
+                     '2': ['vii.01', 'vii.03', 'vii.06', 'vii.04'],
+                     '3': ['vii.08', 'vii.10', 'vii.13', 'vii.11'],
+                     '4': ['vii.15', 'vii.17', 'vii.20', 'vii.18'],
+                     '5': ['vii.22', 'vii.24', 'vii.27', 'vii.25']}
+
+    schedule_2016 = {'1': ['vi.22', 'vi.23', 'vi.24', 'vi.25'],
+                     '2': ['vi.29', 'vi.30', 'vii.01', 'vii.02'],
+                     '3': ['vii.06', 'vii.07', 'vii.08', 'vii.09'],
+                     '4': ['vii.13', 'vii.14', 'vii.15', 'vii.16'],
+                     '5': ['vii.20', 'vii.23', 'vii.22', 'vii.23']}  # 23 twice
+
+    for event in sample_list:
+        event.block() = b
+        mass = 0
+        families = 0
+        for val in event.orders().values():
+            mass += val[0]
+            families += len(val[1])
+        if 'malaise' in str(event).lower():
+            if '2015' in event.date():
+                malaise = malaise_data.get(b, [[0], [0], []])
+                malaise[2].append(event.site())
+                malaise[0][0] = (malaise[0][0]
+                                 * len(malaise[2] - 1)
+                                 + mass) / len(malaise[2])
+                malaise[1][0] = (malaise[1][0]
+                                 * len(malaise[2] - 1)
+                                 + families) / len(malaise[2])
+                malaise_data[b] = malaise
+                # add week number into this process and repeat...
+            else:
+                pass
+        elif 'pitfall' in str(event).lower():
+            pass
+        elif 'sweep' in str(event).lower():
+            pass
+        else:
+            pass
+
+
+
+def main():
+    samples = corrections(read_data())
+    for event in samples:
+        if '2015' in event.date():
+            print(event)
+            print(event.orders('Trichoptera')[0])
+
+
+main()
+
+# second arrange data into a neat looking table
+# third statistics, look at:
+#   overall correspondence b/w sample weight and diversity
+#   correspondence b/w sample weight and diversity but within each order
+#   comparisons between blocks for overall diversity and sample weight
+#   comparisons between blocks for weight of individual pollinator orders
+#   comparisons between blocks for diversity of all pollinator families
+#   the same, but segregate pollinator families by order
+#   maybe include a figure about sampling methods???
+#   maybe do each of these for bulk and individual sampling methods???
