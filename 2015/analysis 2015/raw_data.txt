@@ -668,7 +668,7 @@ malaise;2016;vi;22;1;A;1;Neuroptera;0.0003;0;NA
 malaise;2016;vi;22;1;A;1;Orthoptera;0.0003;0;NA
 malaise;2016;vi;22;1;A;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;22;1;A;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;22;1;A;1;Trichopera;0.0;0;NA
+malaise;2016;vi;22;1;A;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;22;1;B;1;Blattodea;0.0;0;NA
 malaise;2016;vi;22;1;B;1;Coleoptera;0.0104;0;NA
 malaise;2016;vi;22;1;B;1;Collembola;0.0;0;NA
@@ -681,7 +681,7 @@ malaise;2016;vi;22;1;B;1;Neuroptera;0.0007;0;NA
 malaise;2016;vi;22;1;B;1;Orthoptera;0.0164;0;NA
 malaise;2016;vi;22;1;B;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;22;1;B;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;22;1;B;1;Trichopera;0.0;0;NA
+malaise;2016;vi;22;1;B;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;22;1;C;1;Blattodea;0.0;0;NA
 malaise;2016;vi;22;1;C;1;Coleoptera;0.0282;0;NA
 malaise;2016;vi;22;1;C;1;Collembola;0.0;0;NA
@@ -694,7 +694,7 @@ malaise;2016;vi;22;1;C;1;Neuroptera;0.003;0;NA
 malaise;2016;vi;22;1;C;1;Orthoptera;0.059;0;NA
 malaise;2016;vi;22;1;C;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;22;1;C;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;22;1;C;1;Trichopera;0.0;0;NA
+malaise;2016;vi;22;1;C;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;23;2;A;1;Blattodea;0.0;0;NA
 malaise;2016;vi;23;2;A;1;Coleoptera;0.0019;0;NA
 malaise;2016;vi;23;2;A;1;Collembola;0.0;0;NA
@@ -707,7 +707,7 @@ malaise;2016;vi;23;2;A;1;Neuroptera;0.0;0;NA
 malaise;2016;vi;23;2;A;1;Orthoptera;0.0;0;NA
 malaise;2016;vi;23;2;A;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;23;2;A;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;23;2;A;1;Trichopera;0.0;0;NA
+malaise;2016;vi;23;2;A;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;23;2;B;1;Blattodea;0.0;0;NA
 malaise;2016;vi;23;2;B;1;Coleoptera;0.0195;0;NA
 malaise;2016;vi;23;2;B;1;Collembola;0.0;0;NA
@@ -716,11 +716,11 @@ malaise;2016;vi;23;2;B;1;Hemiptera;0.0047;0;NA
 malaise;2016;vi;23;2;B;1;Hymenoptera;1.4348;0;NA
 malaise;2016;vi;23;2;B;1;Lepidoptera;0.3091;0;NA
 malaise;2016;vi;23;2;B;1;Mantodea;0.0;0;NA
-malaise;2016;vi;23;2;B;1;Neuroptera;0.001;0;NA
+malaise;2016;vi;23;2;B;1;Neuroptera;0.0019;0;NA
 malaise;2016;vi;23;2;B;1;Orthoptera;0.0;0;NA
 malaise;2016;vi;23;2;B;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;23;2;B;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;23;2;B;1;Trichopera;0.0009;0;NA
+malaise;2016;vi;23;2;B;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;23;2;C;1;Blattodea;0.0;0;NA
 malaise;2016;vi;23;2;C;1;Coleoptera;0.002;0;NA
 malaise;2016;vi;23;2;C;1;Collembola;0.0;0;NA
@@ -733,7 +733,7 @@ malaise;2016;vi;23;2;C;1;Neuroptera;0.0022;0;NA
 malaise;2016;vi;23;2;C;1;Orthoptera;0.0;0;NA
 malaise;2016;vi;23;2;C;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;23;2;C;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;23;2;C;1;Trichopera;0.0;0;NA
+malaise;2016;vi;23;2;C;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;24;3;A;1;Blattodea;0.0;0;NA
 malaise;2016;vi;24;3;A;1;Coleoptera;0.0276;0;NA
 malaise;2016;vi;24;3;A;1;Collembola;0.0;0;NA
@@ -746,7 +746,7 @@ malaise;2016;vi;24;3;A;1;Neuroptera;0.0;0;NA
 malaise;2016;vi;24;3;A;1;Orthoptera;0.0096;0;NA
 malaise;2016;vi;24;3;A;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;24;3;A;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;24;3;A;1;Trichopera;0.0;0;NA
+malaise;2016;vi;24;3;A;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;24;3;B;1;Blattodea;0.0;0;NA
 malaise;2016;vi;24;3;B;1;Coleoptera;0.0;0;NA
 malaise;2016;vi;24;3;B;1;Collembola;0.0;0;NA
@@ -759,7 +759,7 @@ malaise;2016;vi;24;3;B;1;Neuroptera;0.0;0;NA
 malaise;2016;vi;24;3;B;1;Orthoptera;0.0011;0;NA
 malaise;2016;vi;24;3;B;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;24;3;B;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;24;3;B;1;Trichopera;0.0;0;NA
+malaise;2016;vi;24;3;B;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;24;3;C;1;Blattodea;0.0;0;NA
 malaise;2016;vi;24;3;C;1;Coleoptera;0.0053;0;NA
 malaise;2016;vi;24;3;C;1;Collembola;0.0;0;NA
@@ -772,7 +772,7 @@ malaise;2016;vi;24;3;C;1;Neuroptera;0.0001;0;NA
 malaise;2016;vi;24;3;C;1;Orthoptera;0.042;0;NA
 malaise;2016;vi;24;3;C;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;24;3;C;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;24;3;C;1;Trichopera;0.0;0;NA
+malaise;2016;vi;24;3;C;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;1;1;Blattodea;0.0;0;NA
 malaise;2016;vi;25;UTC;1;1;Coleoptera;0.0108;0;NA
 malaise;2016;vi;25;UTC;1;1;Collembola;0.0;0;NA
@@ -785,7 +785,7 @@ malaise;2016;vi;25;UTC;1;1;Neuroptera;0.0;0;NA
 malaise;2016;vi;25;UTC;1;1;Orthoptera;0.0549;0;NA
 malaise;2016;vi;25;UTC;1;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;1;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;25;UTC;1;1;Trichopera;0.0;0;NA
+malaise;2016;vi;25;UTC;1;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;2;1;Blattodea;0.0;0;NA
 malaise;2016;vi;25;UTC;2;1;Coleoptera;0.0142;0;NA
 malaise;2016;vi;25;UTC;2;1;Collembola;0.0;0;NA
@@ -798,7 +798,7 @@ malaise;2016;vi;25;UTC;2;1;Neuroptera;0.0013;0;NA
 malaise;2016;vi;25;UTC;2;1;Orthoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;2;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;2;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;25;UTC;2;1;Trichopera;0.0;0;NA
+malaise;2016;vi;25;UTC;2;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;3;1;Blattodea;0.0;0;NA
 malaise;2016;vi;25;UTC;3;1;Coleoptera;0.0056;0;NA
 malaise;2016;vi;25;UTC;3;1;Collembola;0.0;0;NA
@@ -811,7 +811,7 @@ malaise;2016;vi;25;UTC;3;1;Neuroptera;0.0004;0;NA
 malaise;2016;vi;25;UTC;3;1;Orthoptera;0.0091;0;NA
 malaise;2016;vi;25;UTC;3;1;Psocoptera;0.0;0;NA
 malaise;2016;vi;25;UTC;3;1;Thysanoptera;0.0;0;NA
-malaise;2016;vi;25;UTC;3;1;Trichopera;0.0;0;NA
+malaise;2016;vi;25;UTC;3;1;Trichoptera;0.0;0;NA
 malaise;2016;vi;29;1;A;2;Blattodea;0.0;0;NA
 malaise;2016;vi;29;1;A;2;Coleoptera;0.0203;0;NA
 malaise;2016;vi;29;1;A;2;Collembola;0.0;0;NA
@@ -824,7 +824,7 @@ malaise;2016;vi;29;1;A;2;Neuroptera;0.0009;0;NA
 malaise;2016;vi;29;1;A;2;Orthoptera;0.05;0;NA
 malaise;2016;vi;29;1;A;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;29;1;A;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;29;1;A;2;Trichopera;0.0;0;NA
+malaise;2016;vi;29;1;A;2;Trichoptera;0.0;0;NA
 malaise;2016;vi;29;1;B;2;Blattodea;0.0;0;NA
 malaise;2016;vi;29;1;B;2;Coleoptera;0.0382;0;NA
 malaise;2016;vi;29;1;B;2;Collembola;0.0;0;NA
@@ -837,7 +837,7 @@ malaise;2016;vi;29;1;B;2;Neuroptera;0.0015;0;NA
 malaise;2016;vi;29;1;B;2;Orthoptera;0.0453;0;NA
 malaise;2016;vi;29;1;B;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;29;1;B;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;29;1;B;2;Trichopera;0.0;0;NA
+malaise;2016;vi;29;1;B;2;Trichoptera;0.0;0;NA
 malaise;2016;vi;29;1;C;2;Blattodea;0.0;0;NA
 malaise;2016;vi;29;1;C;2;Coleoptera;0.0;0;NA
 malaise;2016;vi;29;1;C;2;Collembola;0.0;0;NA
@@ -850,7 +850,7 @@ malaise;2016;vi;29;1;C;2;Neuroptera;0.0004;0;NA
 malaise;2016;vi;29;1;C;2;Orthoptera;0.0;0;NA
 malaise;2016;vi;29;1;C;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;29;1;C;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;29;1;C;2;Trichopera;0.0;0;NA
+malaise;2016;vi;29;1;C;2;Trichoptera;0.0;0;NA
 malaise;2016;vi;30;2;A;2;Blattodea;0.0;0;NA
 malaise;2016;vi;30;2;A;2;Coleoptera;0.0013;0;NA
 malaise;2016;vi;30;2;A;2;Collembola;0.0;0;NA
@@ -863,7 +863,7 @@ malaise;2016;vi;30;2;A;2;Neuroptera;0.0;0;NA
 malaise;2016;vi;30;2;A;2;Orthoptera;0.0545;0;NA
 malaise;2016;vi;30;2;A;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;30;2;A;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;30;2;A;2;Trichopera;0.0;0;NA
+malaise;2016;vi;30;2;A;2;Trichoptera;0.0;0;NA
 malaise;2016;vi;30;2;B;2;Blattodea;0.0;0;NA
 malaise;2016;vi;30;2;B;2;Coleoptera;0.0043;0;NA
 malaise;2016;vi;30;2;B;2;Collembola;0.0;0;NA
@@ -876,7 +876,7 @@ malaise;2016;vi;30;2;B;2;Neuroptera;0.0031;0;NA
 malaise;2016;vi;30;2;B;2;Orthoptera;0.028;0;NA
 malaise;2016;vi;30;2;B;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;30;2;B;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;30;2;B;2;Trichopera;0.0;0;NA
+malaise;2016;vi;30;2;B;2;Trichoptera;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Blattodea;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Coleoptera;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Collembola;0.0;0;NA
@@ -889,7 +889,7 @@ malaise;2016;vi;30;2;C;2;Neuroptera;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Orthoptera;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Psocoptera;0.0;0;NA
 malaise;2016;vi;30;2;C;2;Thysanoptera;0.0;0;NA
-malaise;2016;vi;30;2;C;2;Trichopera;0.0;0;NA
+malaise;2016;vi;30;2;C;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;01;3;A;2;Blattodea;0.0;0;NA
 malaise;2016;vii;01;3;A;2;Coleoptera;0.0105;0;NA
 malaise;2016;vii;01;3;A;2;Collembola;0.0;0;NA
@@ -902,7 +902,7 @@ malaise;2016;vii;01;3;A;2;Neuroptera;0.0014;0;NA
 malaise;2016;vii;01;3;A;2;Orthoptera;0.1444;0;NA
 malaise;2016;vii;01;3;A;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;01;3;A;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;01;3;A;2;Trichopera;0.0;0;NA
+malaise;2016;vii;01;3;A;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;01;3;B;2;Blattodea;0.0;0;NA
 malaise;2016;vii;01;3;B;2;Coleoptera;0.0;0;NA
 malaise;2016;vii;01;3;B;2;Collembola;0.0;0;NA
@@ -915,7 +915,7 @@ malaise;2016;vii;01;3;B;2;Neuroptera;0.0003;0;NA
 malaise;2016;vii;01;3;B;2;Orthoptera;0.0438;0;NA
 malaise;2016;vii;01;3;B;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;01;3;B;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;01;3;B;2;Trichopera;0.0;0;NA
+malaise;2016;vii;01;3;B;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;01;3;C;2;Blattodea;0.0;0;NA
 malaise;2016;vii;01;3;C;2;Coleoptera;0.0098;0;NA
 malaise;2016;vii;01;3;C;2;Collembola;0.0;0;NA
@@ -928,7 +928,7 @@ malaise;2016;vii;01;3;C;2;Neuroptera;0.0;0;NA
 malaise;2016;vii;01;3;C;2;Orthoptera;0.1174;0;NA
 malaise;2016;vii;01;3;C;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;01;3;C;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;01;3;C;2;Trichopera;0.0;0;NA
+malaise;2016;vii;01;3;C;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;1;2;Blattodea;0.0;0;NA
 malaise;2016;vii;02;UTC;1;2;Coleoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;1;2;Collembola;0.0;0;NA
@@ -941,7 +941,7 @@ malaise;2016;vii;02;UTC;1;2;Neuroptera;0.0001;0;NA
 malaise;2016;vii;02;UTC;1;2;Orthoptera;0.1498;0;NA
 malaise;2016;vii;02;UTC;1;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;1;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;02;UTC;1;2;Trichopera;0.0;0;NA
+malaise;2016;vii;02;UTC;1;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;2;2;Blattodea;0.0;0;NA
 malaise;2016;vii;02;UTC;2;2;Coleoptera;0.0091;0;NA
 malaise;2016;vii;02;UTC;2;2;Collembola;0.0;0;NA
@@ -954,7 +954,7 @@ malaise;2016;vii;02;UTC;2;2;Neuroptera;0.0001;0;NA
 malaise;2016;vii;02;UTC;2;2;Orthoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;2;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;2;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;02;UTC;2;2;Trichopera;0.0;0;NA
+malaise;2016;vii;02;UTC;2;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;3;2;Blattodea;0.0;0;NA
 malaise;2016;vii;02;UTC;3;2;Coleoptera;0.0013;0;NA
 malaise;2016;vii;02;UTC;3;2;Collembola;0.0;0;NA
@@ -967,7 +967,7 @@ malaise;2016;vii;02;UTC;3;2;Neuroptera;0.0008;0;NA
 malaise;2016;vii;02;UTC;3;2;Orthoptera;0.0288;0;NA
 malaise;2016;vii;02;UTC;3;2;Psocoptera;0.0;0;NA
 malaise;2016;vii;02;UTC;3;2;Thysanoptera;0.0;0;NA
-malaise;2016;vii;02;UTC;3;2;Trichopera;0.0;0;NA
+malaise;2016;vii;02;UTC;3;2;Trichoptera;0.0;0;NA
 malaise;2016;vii;06;1;A;3;Blattodea;0.0;0;NA
 malaise;2016;vii;06;1;A;3;Coleoptera;0.0317;0;NA
 malaise;2016;vii;06;1;A;3;Collembola;0.0;0;NA
@@ -980,7 +980,7 @@ malaise;2016;vii;06;1;A;3;Neuroptera;0.0027;0;NA
 malaise;2016;vii;06;1;A;3;Orthoptera;0.0;0;NA
 malaise;2016;vii;06;1;A;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;06;1;A;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;06;1;A;3;Trichopera;0.0;0;NA
+malaise;2016;vii;06;1;A;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;06;1;B;3;Blattodea;0.0;0;NA
 malaise;2016;vii;06;1;B;3;Coleoptera;0.0619;0;NA
 malaise;2016;vii;06;1;B;3;Collembola;0.0;0;NA
@@ -993,7 +993,7 @@ malaise;2016;vii;06;1;B;3;Neuroptera;0.0025;0;NA
 malaise;2016;vii;06;1;B;3;Orthoptera;0.0109;0;NA
 malaise;2016;vii;06;1;B;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;06;1;B;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;06;1;B;3;Trichopera;0.0;0;NA
+malaise;2016;vii;06;1;B;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;06;1;C;3;Blattodea;0.0;0;NA
 malaise;2016;vii;06;1;C;3;Coleoptera;0.0;0;NA
 malaise;2016;vii;06;1;C;3;Collembola;0.0;0;NA
@@ -1006,7 +1006,7 @@ malaise;2016;vii;06;1;C;3;Neuroptera;0.0016;0;NA
 malaise;2016;vii;06;1;C;3;Orthoptera;0.144;0;NA
 malaise;2016;vii;06;1;C;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;06;1;C;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;06;1;C;3;Trichopera;0.0;0;NA
+malaise;2016;vii;06;1;C;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;07;2;A;3;Blattodea;0.0;0;NA
 malaise;2016;vii;07;2;A;3;Coleoptera;0.0361;0;NA
 malaise;2016;vii;07;2;A;3;Collembola;0.0;0;NA
@@ -1015,11 +1015,11 @@ malaise;2016;vii;07;2;A;3;Hemiptera;0.0097;0;NA
 malaise;2016;vii;07;2;A;3;Hymenoptera;1.3103;0;NA
 malaise;2016;vii;07;2;A;3;Lepidoptera;0.5978;0;NA
 malaise;2016;vii;07;2;A;3;Mantodea;0.0;0;NA
-malaise;2016;vii;07;2;A;3;Neuroptera;0.0006;0;NA
+malaise;2016;vii;07;2;A;3;Neuroptera;0.0012;0;NA
 malaise;2016;vii;07;2;A;3;Orthoptera;0.0;0;NA
 malaise;2016;vii;07;2;A;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;07;2;A;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;07;2;A;3;Trichopera;0.0006;0;NA
+malaise;2016;vii;07;2;A;3;Trichoptera;0;0;NA
 malaise;2016;vii;07;2;B;3;Blattodea;0.0;0;NA
 malaise;2016;vii;07;2;B;3;Coleoptera;0.0467;0;NA
 malaise;2016;vii;07;2;B;3;Collembola;0.0;0;NA
@@ -1032,7 +1032,7 @@ malaise;2016;vii;07;2;B;3;Neuroptera;0.0027;0;NA
 malaise;2016;vii;07;2;B;3;Orthoptera;0.0172;0;NA
 malaise;2016;vii;07;2;B;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;07;2;B;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;07;2;B;3;Trichopera;0.0;0;NA
+malaise;2016;vii;07;2;B;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;07;2;C;3;Blattodea;0.0;0;NA
 malaise;2016;vii;07;2;C;3;Coleoptera;0.0;0;NA
 malaise;2016;vii;07;2;C;3;Collembola;0.0;0;NA
@@ -1045,7 +1045,7 @@ malaise;2016;vii;07;2;C;3;Neuroptera;0.0046;0;NA
 malaise;2016;vii;07;2;C;3;Orthoptera;0.0;0;NA
 malaise;2016;vii;07;2;C;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;07;2;C;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;07;2;C;3;Trichopera;0.0;0;NA
+malaise;2016;vii;07;2;C;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;08;3;A;3;Blattodea;0.0;0;NA
 malaise;2016;vii;08;3;A;3;Coleoptera;0.048;0;NA
 malaise;2016;vii;08;3;A;3;Collembola;0.0;0;NA
@@ -1058,7 +1058,7 @@ malaise;2016;vii;08;3;A;3;Neuroptera;0.0;0;NA
 malaise;2016;vii;08;3;A;3;Orthoptera;0.1203;0;NA
 malaise;2016;vii;08;3;A;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;08;3;A;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;08;3;A;3;Trichopera;0.0;0;NA
+malaise;2016;vii;08;3;A;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;08;3;B;3;Blattodea;0.0;0;NA
 malaise;2016;vii;08;3;B;3;Coleoptera;0.0082;0;NA
 malaise;2016;vii;08;3;B;3;Collembola;0.0;0;NA
@@ -1071,7 +1071,7 @@ malaise;2016;vii;08;3;B;3;Neuroptera;0.0001;0;NA
 malaise;2016;vii;08;3;B;3;Orthoptera;0.0;0;NA
 malaise;2016;vii;08;3;B;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;08;3;B;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;08;3;B;3;Trichopera;0.0;0;NA
+malaise;2016;vii;08;3;B;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;08;3;C;3;Blattodea;0.0;0;NA
 malaise;2016;vii;08;3;C;3;Coleoptera;0.0015;0;NA
 malaise;2016;vii;08;3;C;3;Collembola;0.0;0;NA
@@ -1084,7 +1084,7 @@ malaise;2016;vii;08;3;C;3;Neuroptera;0.0;0;NA
 malaise;2016;vii;08;3;C;3;Orthoptera;0.0662;0;NA
 malaise;2016;vii;08;3;C;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;08;3;C;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;08;3;C;3;Trichopera;0.0;0;NA
+malaise;2016;vii;08;3;C;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;1;3;Blattodea;0.0;0;NA
 malaise;2016;vii;09;UTC;1;3;Coleoptera;0.0074;0;NA
 malaise;2016;vii;09;UTC;1;3;Collembola;0.0;0;NA
@@ -1097,7 +1097,7 @@ malaise;2016;vii;09;UTC;1;3;Neuroptera;0.0003;0;NA
 malaise;2016;vii;09;UTC;1;3;Orthoptera;0.1936;0;NA
 malaise;2016;vii;09;UTC;1;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;1;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;09;UTC;1;3;Trichopera;0.0;0;NA
+malaise;2016;vii;09;UTC;1;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;2;3;Blattodea;0.0;0;NA
 malaise;2016;vii;09;UTC;2;3;Coleoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;2;3;Collembola;0.0;0;NA
@@ -1110,7 +1110,7 @@ malaise;2016;vii;09;UTC;2;3;Neuroptera;0.0005;0;NA
 malaise;2016;vii;09;UTC;2;3;Orthoptera;0.0164;0;NA
 malaise;2016;vii;09;UTC;2;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;2;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;09;UTC;2;3;Trichopera;0.0;0;NA
+malaise;2016;vii;09;UTC;2;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;3;3;Blattodea;0.0;0;NA
 malaise;2016;vii;09;UTC;3;3;Coleoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;3;3;Collembola;0.0;0;NA
@@ -1123,7 +1123,7 @@ malaise;2016;vii;09;UTC;3;3;Neuroptera;0.0;0;NA
 malaise;2016;vii;09;UTC;3;3;Orthoptera;0.0314;0;NA
 malaise;2016;vii;09;UTC;3;3;Psocoptera;0.0;0;NA
 malaise;2016;vii;09;UTC;3;3;Thysanoptera;0.0;0;NA
-malaise;2016;vii;09;UTC;3;3;Trichopera;0.0;0;NA
+malaise;2016;vii;09;UTC;3;3;Trichoptera;0.0;0;NA
 malaise;2016;vii;13;1;A;4;Blattodea;0.0;0;NA
 malaise;2016;vii;13;1;A;4;Coleoptera;0.0151;0;NA
 malaise;2016;vii;13;1;A;4;Collembola;0.0;0;NA
@@ -1136,7 +1136,7 @@ malaise;2016;vii;13;1;A;4;Neuroptera;0.0037;0;NA
 malaise;2016;vii;13;1;A;4;Orthoptera;0.147;0;NA
 malaise;2016;vii;13;1;A;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;13;1;A;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;13;1;A;4;Trichopera;0.0;0;NA
+malaise;2016;vii;13;1;A;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;13;1;B;4;Blattodea;0.0;0;NA
 malaise;2016;vii;13;1;B;4;Coleoptera;0.0377;0;NA
 malaise;2016;vii;13;1;B;4;Collembola;0.0;0;NA
@@ -1149,7 +1149,7 @@ malaise;2016;vii;13;1;B;4;Neuroptera;0.0005;0;NA
 malaise;2016;vii;13;1;B;4;Orthoptera;0.0579;0;NA
 malaise;2016;vii;13;1;B;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;13;1;B;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;13;1;B;4;Trichopera;0.0;0;NA
+malaise;2016;vii;13;1;B;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;13;1;C;4;Blattodea;0.0;0;NA
 malaise;2016;vii;13;1;C;4;Coleoptera;0.0;0;NA
 malaise;2016;vii;13;1;C;4;Collembola;0.0;0;NA
@@ -1162,7 +1162,7 @@ malaise;2016;vii;13;1;C;4;Neuroptera;0.0018;0;NA
 malaise;2016;vii;13;1;C;4;Orthoptera;0.151;0;NA
 malaise;2016;vii;13;1;C;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;13;1;C;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;13;1;C;4;Trichopera;0.0;0;NA
+malaise;2016;vii;13;1;C;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;14;2;A;4;Blattodea;0.0;0;NA
 malaise;2016;vii;14;2;A;4;Coleoptera;0.004;0;NA
 malaise;2016;vii;14;2;A;4;Collembola;0.0;0;NA
@@ -1175,7 +1175,7 @@ malaise;2016;vii;14;2;A;4;Neuroptera;0.0;0;NA
 malaise;2016;vii;14;2;A;4;Orthoptera;0.0481;0;NA
 malaise;2016;vii;14;2;A;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;14;2;A;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;14;2;A;4;Trichopera;0.0;0;NA
+malaise;2016;vii;14;2;A;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;14;2;B;4;Blattodea;0.0;0;NA
 malaise;2016;vii;14;2;B;4;Coleoptera;0.0025;0;NA
 malaise;2016;vii;14;2;B;4;Collembola;0.0;0;NA
@@ -1188,7 +1188,7 @@ malaise;2016;vii;14;2;B;4;Neuroptera;0.0;0;NA
 malaise;2016;vii;14;2;B;4;Orthoptera;0.0;0;NA
 malaise;2016;vii;14;2;B;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;14;2;B;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;14;2;B;4;Trichopera;0.0;0;NA
+malaise;2016;vii;14;2;B;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;14;2;C;4;Blattodea;0.0;0;NA
 malaise;2016;vii;14;2;C;4;Coleoptera;0.0156;0;NA
 malaise;2016;vii;14;2;C;4;Collembola;0.0;0;NA
@@ -1201,7 +1201,7 @@ malaise;2016;vii;14;2;C;4;Neuroptera;0.0021;0;NA
 malaise;2016;vii;14;2;C;4;Orthoptera;0.1776;0;NA
 malaise;2016;vii;14;2;C;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;14;2;C;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;14;2;C;4;Trichopera;0.0;0;NA
+malaise;2016;vii;14;2;C;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;15;3;A;4;Blattodea;0.0;0;NA
 malaise;2016;vii;15;3;A;4;Coleoptera;0.0388;0;NA
 malaise;2016;vii;15;3;A;4;Collembola;0.0;0;NA
@@ -1214,7 +1214,7 @@ malaise;2016;vii;15;3;A;4;Neuroptera;0.0004;0;NA
 malaise;2016;vii;15;3;A;4;Orthoptera;0.0;0;NA
 malaise;2016;vii;15;3;A;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;15;3;A;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;15;3;A;4;Trichopera;0.0;0;NA
+malaise;2016;vii;15;3;A;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;15;3;B;4;Blattodea;0.0;0;NA
 malaise;2016;vii;15;3;B;4;Coleoptera;0.0034;0;NA
 malaise;2016;vii;15;3;B;4;Collembola;0.0;0;NA
@@ -1227,7 +1227,7 @@ malaise;2016;vii;15;3;B;4;Neuroptera;0.0005;0;NA
 malaise;2016;vii;15;3;B;4;Orthoptera;0.0;0;NA
 malaise;2016;vii;15;3;B;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;15;3;B;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;15;3;B;4;Trichopera;0.0;0;NA
+malaise;2016;vii;15;3;B;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;15;3;C;4;Blattodea;0.0;0;NA
 malaise;2016;vii;15;3;C;4;Coleoptera;0.0;0;NA
 malaise;2016;vii;15;3;C;4;Collembola;0.0;0;NA
@@ -1240,7 +1240,7 @@ malaise;2016;vii;15;3;C;4;Neuroptera;0.0014;0;NA
 malaise;2016;vii;15;3;C;4;Orthoptera;0.0747;0;NA
 malaise;2016;vii;15;3;C;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;15;3;C;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;15;3;C;4;Trichopera;0.0;0;NA
+malaise;2016;vii;15;3;C;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;1;4;Blattodea;0.0;0;NA
 malaise;2016;vii;16;UTC;1;4;Coleoptera;0.0022;0;NA
 malaise;2016;vii;16;UTC;1;4;Collembola;0.0;0;NA
@@ -1253,7 +1253,7 @@ malaise;2016;vii;16;UTC;1;4;Neuroptera;0.0007;0;NA
 malaise;2016;vii;16;UTC;1;4;Orthoptera;0.1889;0;NA
 malaise;2016;vii;16;UTC;1;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;1;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;16;UTC;1;4;Trichopera;0.0;0;NA
+malaise;2016;vii;16;UTC;1;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;2;4;Blattodea;0.0;0;NA
 malaise;2016;vii;16;UTC;2;4;Coleoptera;0.0267;0;NA
 malaise;2016;vii;16;UTC;2;4;Collembola;0.0;0;NA
@@ -1266,7 +1266,7 @@ malaise;2016;vii;16;UTC;2;4;Neuroptera;0.0002;0;NA
 malaise;2016;vii;16;UTC;2;4;Orthoptera;0.1236;0;NA
 malaise;2016;vii;16;UTC;2;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;2;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;16;UTC;2;4;Trichopera;0.0;0;NA
+malaise;2016;vii;16;UTC;2;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;3;4;Blattodea;0.0;0;NA
 malaise;2016;vii;16;UTC;3;4;Coleoptera;0.0123;0;NA
 malaise;2016;vii;16;UTC;3;4;Collembola;0.0;0;NA
@@ -1279,7 +1279,7 @@ malaise;2016;vii;16;UTC;3;4;Neuroptera;0.0005;0;NA
 malaise;2016;vii;16;UTC;3;4;Orthoptera;0.127;0;NA
 malaise;2016;vii;16;UTC;3;4;Psocoptera;0.0;0;NA
 malaise;2016;vii;16;UTC;3;4;Thysanoptera;0.0;0;NA
-malaise;2016;vii;16;UTC;3;4;Trichopera;0.0;0;NA
+malaise;2016;vii;16;UTC;3;4;Trichoptera;0.0;0;NA
 malaise;2016;vii;20;1;A;5;Blattodea;0.0;0;NA
 malaise;2016;vii;20;1;A;5;Coleoptera;0.0129;0;NA
 malaise;2016;vii;20;1;A;5;Collembola;0.0;0;NA
@@ -1292,7 +1292,7 @@ malaise;2016;vii;20;1;A;5;Neuroptera;0.0;0;NA
 malaise;2016;vii;20;1;A;5;Orthoptera;0.0;0;NA
 malaise;2016;vii;20;1;A;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;20;1;A;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;20;1;A;5;Trichopera;0.0;0;NA
+malaise;2016;vii;20;1;A;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;20;1;B;5;Blattodea;0.0;0;NA
 malaise;2016;vii;20;1;B;5;Coleoptera;0.013;0;NA
 malaise;2016;vii;20;1;B;5;Collembola;0.0;0;NA
@@ -1305,7 +1305,7 @@ malaise;2016;vii;20;1;B;5;Neuroptera;0.0003;0;NA
 malaise;2016;vii;20;1;B;5;Orthoptera;0.0304;0;NA
 malaise;2016;vii;20;1;B;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;20;1;B;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;20;1;B;5;Trichopera;0.0;0;NA
+malaise;2016;vii;20;1;B;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;20;1;C;5;Blattodea;0.0;0;NA
 malaise;2016;vii;20;1;C;5;Coleoptera;0.0;0;NA
 malaise;2016;vii;20;1;C;5;Collembola;0.0;0;NA
@@ -1318,7 +1318,7 @@ malaise;2016;vii;20;1;C;5;Neuroptera;0.0005;0;NA
 malaise;2016;vii;20;1;C;5;Orthoptera;0.1279;0;NA
 malaise;2016;vii;20;1;C;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;20;1;C;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;20;1;C;5;Trichopera;0.0;0;NA
+malaise;2016;vii;20;1;C;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;22;3;A;5;Blattodea;0.0;0;NA
 malaise;2016;vii;22;3;A;5;Coleoptera;0.0167;0;NA
 malaise;2016;vii;22;3;A;5;Collembola;0.0;0;NA
@@ -1331,7 +1331,7 @@ malaise;2016;vii;22;3;A;5;Neuroptera;0.0109;0;NA
 malaise;2016;vii;22;3;A;5;Orthoptera;0.0898;0;NA
 malaise;2016;vii;22;3;A;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;22;3;A;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;22;3;A;5;Trichopera;0.0;0;NA
+malaise;2016;vii;22;3;A;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;22;3;B;5;Blattodea;0.0;0;NA
 malaise;2016;vii;22;3;B;5;Coleoptera;0.0029;0;NA
 malaise;2016;vii;22;3;B;5;Collembola;0.0;0;NA
@@ -1344,7 +1344,7 @@ malaise;2016;vii;22;3;B;5;Neuroptera;0.0;0;NA
 malaise;2016;vii;22;3;B;5;Orthoptera;0.0482;0;NA
 malaise;2016;vii;22;3;B;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;22;3;B;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;22;3;B;5;Trichopera;0.0;0;NA
+malaise;2016;vii;22;3;B;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;22;3;C;5;Blattodea;0.0;0;NA
 malaise;2016;vii;22;3;C;5;Coleoptera;0.0009;0;NA
 malaise;2016;vii;22;3;C;5;Collembola;0.0;0;NA
@@ -1357,7 +1357,7 @@ malaise;2016;vii;22;3;C;5;Neuroptera;0.002;0;NA
 malaise;2016;vii;22;3;C;5;Orthoptera;0.0;0;NA
 malaise;2016;vii;22;3;C;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;22;3;C;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;22;3;C;5;Trichopera;0.0;0;NA
+malaise;2016;vii;22;3;C;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;2;A;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;2;A;5;Coleoptera;0.0;0;NA
 malaise;2016;vii;23;2;A;5;Collembola;0.0;0;NA
@@ -1370,7 +1370,7 @@ malaise;2016;vii;23;2;A;5;Neuroptera;0.0003;0;NA
 malaise;2016;vii;23;2;A;5;Orthoptera;0.1192;0;NA
 malaise;2016;vii;23;2;A;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;2;A;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;2;A;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;2;A;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;2;B;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;2;B;5;Coleoptera;0.0007;0;NA
 malaise;2016;vii;23;2;B;5;Collembola;0.0;0;NA
@@ -1383,7 +1383,7 @@ malaise;2016;vii;23;2;B;5;Neuroptera;0.0022;0;NA
 malaise;2016;vii;23;2;B;5;Orthoptera;0.0295;0;NA
 malaise;2016;vii;23;2;B;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;2;B;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;2;B;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;2;B;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;2;C;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;2;C;5;Coleoptera;0.0041;0;NA
 malaise;2016;vii;23;2;C;5;Collembola;0.0;0;NA
@@ -1396,7 +1396,7 @@ malaise;2016;vii;23;2;C;5;Neuroptera;0.0011;0;NA
 malaise;2016;vii;23;2;C;5;Orthoptera;0.0;0;NA
 malaise;2016;vii;23;2;C;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;2;C;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;2;C;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;2;C;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;1;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;UTC;1;5;Coleoptera;0.005;0;NA
 malaise;2016;vii;23;UTC;1;5;Collembola;0.0;0;NA
@@ -1409,7 +1409,7 @@ malaise;2016;vii;23;UTC;1;5;Neuroptera;0.0001;0;NA
 malaise;2016;vii;23;UTC;1;5;Orthoptera;0.3316;0;NA
 malaise;2016;vii;23;UTC;1;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;1;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;UTC;1;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;UTC;1;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;2;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;UTC;2;5;Coleoptera;0.0007;0;NA
 malaise;2016;vii;23;UTC;2;5;Collembola;0.0;0;NA
@@ -1422,7 +1422,7 @@ malaise;2016;vii;23;UTC;2;5;Neuroptera;0.0005;0;NA
 malaise;2016;vii;23;UTC;2;5;Orthoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;2;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;2;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;UTC;2;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;UTC;2;5;Trichoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;3;5;Blattodea;0.0;0;NA
 malaise;2016;vii;23;UTC;3;5;Coleoptera;0.0101;0;NA
 malaise;2016;vii;23;UTC;3;5;Collembola;0.0;0;NA
@@ -1435,7 +1435,7 @@ malaise;2016;vii;23;UTC;3;5;Neuroptera;0.0;0;NA
 malaise;2016;vii;23;UTC;3;5;Orthoptera;0.0869;0;NA
 malaise;2016;vii;23;UTC;3;5;Psocoptera;0.0;0;NA
 malaise;2016;vii;23;UTC;3;5;Thysanoptera;0.0;0;NA
-malaise;2016;vii;23;UTC;3;5;Trichopera;0.0;0;NA
+malaise;2016;vii;23;UTC;3;5;Trichoptera;0.0;0;NA
 pitfall;2015;vi;24;1;A;1;Coleoptera;2.061;0;NA
 pitfall;2015;vi;24;1;A;1;Collembola;0.0;0;NA
 pitfall;2015;vi;24;1;A;1;Diptera;0.2896;0;NA
