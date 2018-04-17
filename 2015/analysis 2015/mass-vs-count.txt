@@ -13,7 +13,7 @@ Coefficients:
 (Intercept)   1.7813     0.1809   9.849 1.17e-13 ***
 temp.mass     6.5272     4.2720   1.528    0.132    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.014 on 54 degrees of freedom
 Multiple R-squared:  0.04144,	Adjusted R-squared:  0.02369 
@@ -32,7 +32,7 @@ Coefficients:
 (Intercept)  13.0480     0.9630  13.549  < 2e-16 ***
 temp.mass     2.2715     0.6652   3.415  0.00117 ** 
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 4.462 on 58 degrees of freedom
 Multiple R-squared:  0.1674,	Adjusted R-squared:  0.153 
@@ -51,7 +51,7 @@ Coefficients:
 (Intercept)   1.9362     0.1526  12.692  < 2e-16 ***
 temp.mass    33.3770     5.9045   5.653 6.42e-07 ***
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.8662 on 53 degrees of freedom
 Multiple R-squared:  0.3761,	Adjusted R-squared:  0.3644 
@@ -70,7 +70,7 @@ Coefficients:
 (Intercept)   6.7574     0.3053  22.131   <2e-16 ***
 temp.mass     0.1595     0.2202   0.724    0.472    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.444 on 55 degrees of freedom
 Multiple R-squared:  0.009444,	Adjusted R-squared:  -0.008566 
@@ -89,7 +89,7 @@ Coefficients:
 (Intercept)   3.4451     0.1444  23.864   <2e-16 ***
 temp.mass     0.8582     0.4133   2.077   0.0424 *  
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.7843 on 56 degrees of freedom
 Multiple R-squared:  0.0715,	Adjusted R-squared:  0.05492 
@@ -108,7 +108,7 @@ Coefficients:
 (Intercept)  1.20611    0.11261  10.710 6.84e-13 ***
 temp.mass    0.09944    0.35823   0.278    0.783    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.4321 on 37 degrees of freedom
 Multiple R-squared:  0.002078,	Adjusted R-squared:  -0.02489 
@@ -127,7 +127,7 @@ Coefficients:
 (Intercept)   6.2494     0.5223  11.964   <2e-16 ***
 temp.mass     0.1154     0.1452   0.795     0.43    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 2.239 on 51 degrees of freedom
 Multiple R-squared:  0.01224,	Adjusted R-squared:  -0.007133 
@@ -146,7 +146,7 @@ Coefficients:
 (Intercept)   5.9393     0.3797  15.642   <2e-16 ***
 temp.mass     4.1940     2.0891   2.008   0.0499 *  
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.961 on 52 degrees of freedom
 Multiple R-squared:  0.07193,	Adjusted R-squared:  0.05408 
@@ -165,7 +165,7 @@ Coefficients:
 (Intercept)   2.0024     0.1785  11.218 1.69e-15 ***
 temp.mass    17.9510     6.1494   2.919  0.00518 ** 
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.8797 on 52 degrees of freedom
 Multiple R-squared:  0.1408,	Adjusted R-squared:  0.1243 
@@ -184,7 +184,7 @@ Coefficients:
 (Intercept)    2.427      0.344   7.053 4.96e-09 ***
 temp.mass     34.523     10.017   3.446  0.00116 ** 
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.566 on 50 degrees of freedom
 Multiple R-squared:  0.1919,	Adjusted R-squared:  0.1758 
@@ -203,7 +203,7 @@ Coefficients:
 (Intercept)  1.06481    0.04658  22.858   <2e-16 ***
 temp.mass   -0.23442    0.71205  -0.329    0.744    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.2387 on 33 degrees of freedom
 Multiple R-squared:  0.003274,	Adjusted R-squared:  -0.02693 
@@ -222,7 +222,7 @@ Coefficients:
 (Intercept)   1.6454     0.1454  11.317 1.61e-15 ***
 temp.mass     0.2801     0.1579   1.773   0.0822 .  
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 0.7378 on 51 degrees of freedom
 Multiple R-squared:  0.05807,	Adjusted R-squared:  0.0396 
@@ -241,7 +241,7 @@ Coefficients:
 (Intercept)   1.9324     0.1636  11.815 1.56e-15 ***
 temp.mass     3.2291     1.0619   3.041  0.00389 ** 
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.063 on 46 degrees of freedom
 Multiple R-squared:  0.1674,	Adjusted R-squared:  0.1493 
@@ -260,7 +260,7 @@ Coefficients:
 (Intercept)   2.7986     0.3565    7.85 5.71e-10 ***
 temp.mass     5.5168    14.9188    0.37    0.713    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 2.026 on 45 degrees of freedom
 Multiple R-squared:  0.00303,	Adjusted R-squared:  -0.01913 
@@ -279,7 +279,7 @@ Coefficients:
 (Intercept)   1.1747     0.2048   5.735 5.63e-07 ***
 temp.mass    37.1234     4.7404   7.831 3.04e-10 ***
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.096 on 50 degrees of freedom
 Multiple R-squared:  0.5509,	Adjusted R-squared:  0.5419 
@@ -298,7 +298,7 @@ Coefficients:
 (Intercept)   1.5096     0.2032   7.428 1.08e-08 ***
 temp.mass    68.8648    11.5647   5.955 8.86e-07 ***
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 1.104 on 35 degrees of freedom
 Multiple R-squared:  0.5033,	Adjusted R-squared:  0.4891 
@@ -317,7 +317,7 @@ Coefficients:
 (Intercept)  1.000e+00  1.196e-16  8.359e+15   <2e-16 ***
 temp.mass   -8.350e-16  6.865e-15 -1.220e-01    0.909    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 2.478e-16 on 4 degrees of freedom
 Multiple R-squared:  0.4127,	Adjusted R-squared:  0.2658 
@@ -336,7 +336,7 @@ Coefficients:
 (Intercept) 1.000e+00  1.169e-16 8.553e+15   <2e-16 ***
 temp.mass   2.234e-15  2.835e-15 7.880e-01    0.436    
 ---
-Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Residual standard error: 4.465e-16 on 34 degrees of freedom
 Multiple R-squared:  0.5032,	Adjusted R-squared:  0.4886 

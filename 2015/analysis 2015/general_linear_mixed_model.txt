@@ -1,0 +1,108 @@
+General Linear Mixed Model, negative binomial
+
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+ Family: poisson  ( log )
+Formula: family_count ~ mass + (1 | order) + (1 | method)
+   Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
+
+     AIC      BIC   logLik deviance df.resid 
+  3578.9   3598.3  -1785.5   3570.9      942 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-3.3270 -0.6659 -0.1349  0.4582  4.9910 
+
+Random effects:
+ Groups Name        Variance Std.Dev.
+ order  (Intercept) 0.3794   0.6159  
+ method (Intercept) 0.1502   0.3875  
+Number of obs: 946, groups:  order, 11; method, 3
+
+Fixed effects:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)  0.59879    0.29918   2.001   0.0453 *  
+mass         0.19436    0.01227  15.834   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+     (Intr)
+mass -0.008
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+ Family: Negative Binomial(43.7543)  ( log )
+Formula: family_count ~ mass + (1 | order) + (1 | method)
+   Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
+
+     AIC      BIC   logLik deviance df.resid 
+  3574.0   3598.3  -1782.0   3564.0      941 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9952 -0.6286 -0.1483  0.4291  4.7868 
+
+Random effects:
+ Groups Name        Variance Std.Dev.
+ order  (Intercept) 0.3727   0.6105  
+ method (Intercept) 0.1402   0.3744  
+Number of obs: 946, groups:  order, 11; method, 3
+
+Fixed effects:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   0.6010     0.2929   2.052   0.0402 *  
+mass          0.2068     0.0145  14.263   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+     (Intr)
+mass -0.009
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+ Family: Negative Binomial(43.7543)  ( log )
+Formula: family_count ~ mass + (1 | order) + (1 | method)
+   Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
+
+     AIC      BIC   logLik deviance df.resid 
+  3574.0   3598.3  -1782.0   3564.0      941 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.9952 -0.6286 -0.1483  0.4291  4.7868 
+
+Random effects:
+ Groups Name        Variance Std.Dev.
+ order  (Intercept) 0.3727   0.6105  
+ method (Intercept) 0.1402   0.3744  
+Number of obs: 946, groups:  order, 11; method, 3
+
+Fixed effects:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept)   0.6010     0.2929   2.052   0.0402 *  
+mass          0.2068     0.0145  14.263   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+     (Intr)
+mass -0.009
+Likelihood ratio test
+
+Model 1: family_count ~ mass + (1 | order) + (1 | method)
+Model 2: family_count ~ mass + (1 | order) + (1 | method)
+  #Df  LogLik Df  Chisq Pr(>Chisq)   
+1   4 -1785.5                        
+2   5 -1782.0  1 6.8946   0.008646 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Likelihood ratio test
+
+Model 1: family_count ~ mass + (1 | order) + (1 | method)
+Model 2: family_count ~ (1 | order) + (1 | method)
+Model 3: family_count ~ mass + (1 | method)
+Model 4: family_count ~ mass + (1 | order)
+  #Df  LogLik Df  Chisq Pr(>Chisq)    
+1   5 -1782.0                         
+2   4 -1865.2 -1 166.26  < 2.2e-16 ***
+3   4 -2108.4  0 486.50  < 2.2e-16 ***
+4   4 -1878.4  0 460.06  < 2.2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

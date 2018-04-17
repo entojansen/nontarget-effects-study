@@ -20,7 +20,8 @@ Analysis1 = function(raw.data) {
   dir.create("plots/mass-vs-count/qqplot")
   
   name = "mass-vs-count.txt"
-  capture.output(cat("Linear Regression by sample method and order\n\n"), file = name)
+  capture.output(cat("Linear Regression by sample method and order\n\n"),
+                 file = name)
   
   #Orders that don't break the script... droplevels not removing unused orders.
   orders = c("Coleoptera",
@@ -121,26 +122,87 @@ Analysis1 = function(raw.data) {
 # Analysis 2 -------------------------------------------------------------------
 #   linear mixed model: sample weight and diversity per order and sample method
 Analysis2 = function(raw.data) {
+  dir.create("plots/glmm")
+  name = "general_linear_mixed_model.txt"
+  capture.output(cat("General Linear Mixed Model, negative binomial\n\n"),
+                 file = name)
+  
   # Mixed linear model with mass as fixed effect and order and method as random
-  mixed.lmer = lmer(family_count ~ mass + (1 | order) + (1 | method),
-              data = raw.data[with(raw.data, mass > 0 & family_count > 0), ], family = poisson)
+  mixed.lmer.poisson = glmer(family_count ~ mass + (1 | order) + (1 | method),
+                        data = raw.data[with(raw.data, mass > 0 
+                                             & family_count > 0), ],
+                        family = poisson)
   
-  print(summary(mixed.lmer))
+  print(summary(mixed.lmer.poisson))
   
-  plot(fitted(mixed.lmer),
-       residuals(mixed.lmer),
+  mixed.lmer.nb = glmer.nb(family_count ~ mass + (1 | order) + (1 | method),
+                        data = raw.data[with(raw.data, mass > 0 
+                                             & family_count > 0), ],
+                        family = negative.binomial)
+  
+  print(summary(mixed.lmer.nb))
+  
+  print(lrtest(mixed.lmer.poisson, mixed.lmer.nb))
+  
+  mixed.lmer.nomass = glmer.nb(family_count ~ (1 | order) + (1 | method),
+       data = raw.data[with(raw.data, mass > 0 
+                            & family_count > 0), ],
+       family = negative.binomial)
+  
+  mixed.lmer.noorder = glmer.nb(family_count ~ mass + (1 | method),
+       data = raw.data[with(raw.data, mass > 0 
+                            & family_count > 0), ],
+       family = negative.binomial)
+  
+  mixed.lmer.nomethod = glmer.nb(family_count ~ mass + (1 | order),
+                             data = raw.data[with(raw.data, mass > 0 
+                                                  & family_count > 0), ],
+                             family = negative.binomial)
+  
+  print(lrtest(mixed.lmer.nb,
+               mixed.lmer.nomass,
+               mixed.lmer.noorder,
+               mixed.lmer.nomethod))
+  
+  capture.output(summary(mixed.lmer.poisson), file = name, append = TRUE)
+  capture.output(summary(mixed.lmer.nb), file = name, append = TRUE)
+  capture.output(summary(mixed.lmer.nb), file = name, append = TRUE)
+  capture.output(lrtest(mixed.lmer.poisson, mixed.lmer.nb),
+                 file = name, append = TRUE)
+  capture.output(lrtest(mixed.lmer.nb,
+                        mixed.lmer.nomass,
+                        mixed.lmer.noorder,
+                        mixed.lmer.nomethod), 
+                 file = name, append = TRUE)
+  
+  plot(fitted(mixed.lmer.nb),
+       residuals(mixed.lmer.nb),
        xlab = "fitted family count",
        ylab = "residual family count"
   )
+  dev.copy(pdf,
+           paste("plots/glmm/2015_glmm_residual.pdf",
+                 sep = "_"),
+           width = 3,
+           height = 3
+  )
+  dev.off()
   
-  qqnorm(residuals(mixed.lmer),
+  qqnorm(residuals(mixed.lmer.nb),
          ylab = "Residual Quantiles",
          main = NULL
   )
-  qqline(residuals(mixed.lmer),
+  qqline(residuals(mixed.lmer.nb),
          probs = c(0.25, 0.75),
          col = 'blue'
   )
+  dev.copy(pdf,
+           paste("plots/glmm/2015_glmm_qqplot.pdf",
+                 sep = "_"),
+           width = 3,
+           height = 3
+  )
+  dev.off()
 }
 
 # Analysis 3 -------------------------------------------------------------------
@@ -177,6 +239,8 @@ main = function() {
   library(gplots)
   library(car)
   library(lme4)
+  library(qcc)
+  library(lmtest)
   
   #Create folder for plots
   dir.create("plots")
@@ -188,8 +252,8 @@ main = function() {
   readline(prompt = "reading raw_data.txt: press enter to continue.")
   raw.data = GetData("raw_data.txt")
   
-  readline(prompt = "first analysis: press enter to continue.")
-  Analysis1(raw.data)
+  # readline(prompt = "first analysis: press enter to continue.")
+  # Analysis1(raw.data)
   
   readline(prompt = "second analysis: press enter to continue.")
   Analysis2(raw.data)
