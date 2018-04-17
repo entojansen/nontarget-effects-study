@@ -1,0 +1,344 @@
+Linear Regression by sample method and order
+
+malaise Coleoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-2.04754 -0.83021  0.04349  0.81422  2.73834 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.7813     0.1809   9.849 1.17e-13 ***
+temp.mass     6.5272     4.2720   1.528    0.132    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.014 on 54 degrees of freedom
+Multiple R-squared:  0.04144,	Adjusted R-squared:  0.02369 
+F-statistic: 2.335 on 1 and 54 DF,  p-value: 0.1324
+
+malaise Diptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-9.2933 -3.0763  0.5549  3.5269  7.7887 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  13.0480     0.9630  13.549  < 2e-16 ***
+temp.mass     2.2715     0.6652   3.415  0.00117 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.462 on 58 degrees of freedom
+Multiple R-squared:  0.1674,	Adjusted R-squared:  0.153 
+F-statistic: 11.66 on 1 and 58 DF,  p-value: 0.001171
+
+malaise Hemiptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.77990 -0.86472 -0.03631  0.56984  1.76009 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.9362     0.1526  12.692  < 2e-16 ***
+temp.mass    33.3770     5.9045   5.653 6.42e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8662 on 53 degrees of freedom
+Multiple R-squared:  0.3761,	Adjusted R-squared:  0.3644 
+F-statistic: 31.95 on 1 and 53 DF,  p-value: 6.424e-07
+
+malaise Hymenoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.9748 -0.9086  0.0898  1.0705  3.1505 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   6.7574     0.3053  22.131   <2e-16 ***
+temp.mass     0.1595     0.2202   0.724    0.472    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.444 on 55 degrees of freedom
+Multiple R-squared:  0.009444,	Adjusted R-squared:  -0.008566 
+F-statistic: 0.5244 on 1 and 55 DF,  p-value: 0.4721
+
+malaise Lepidoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.5277 -0.5831  0.2536  0.4476  1.5408 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   3.4451     0.1444  23.864   <2e-16 ***
+temp.mass     0.8582     0.4133   2.077   0.0424 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.7843 on 56 degrees of freedom
+Multiple R-squared:  0.0715,	Adjusted R-squared:  0.05492 
+F-statistic: 4.312 on 1 and 56 DF,  p-value: 0.04243
+
+malaise Orthoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.2843 -0.2346 -0.2163 -0.2093  0.7861 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.20611    0.11261  10.710 6.84e-13 ***
+temp.mass    0.09944    0.35823   0.278    0.783    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.4321 on 37 degrees of freedom
+Multiple R-squared:  0.002078,	Adjusted R-squared:  -0.02489 
+F-statistic: 0.07706 on 1 and 37 DF,  p-value: 0.7829
+
+pitfall Coleoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.7170 -1.4067 -0.4112  1.4579  5.6344 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   6.2494     0.5223  11.964   <2e-16 ***
+temp.mass     0.1154     0.1452   0.795     0.43    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.239 on 51 degrees of freedom
+Multiple R-squared:  0.01224,	Adjusted R-squared:  -0.007133 
+F-statistic: 0.6317 on 1 and 51 DF,  p-value: 0.4304
+
+pitfall Diptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+   Min     1Q Median     3Q    Max 
+-4.201 -1.193 -0.193  1.764  4.312 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   5.9393     0.3797  15.642   <2e-16 ***
+temp.mass     4.1940     2.0891   2.008   0.0499 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.961 on 52 degrees of freedom
+Multiple R-squared:  0.07193,	Adjusted R-squared:  0.05408 
+F-statistic:  4.03 on 1 and 52 DF,  p-value: 0.0499
+
+pitfall Hemiptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.9357 -0.4202 -0.1182  0.5295  2.1575 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   2.0024     0.1785  11.218 1.69e-15 ***
+temp.mass    17.9510     6.1494   2.919  0.00518 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8797 on 52 degrees of freedom
+Multiple R-squared:  0.1408,	Adjusted R-squared:  0.1243 
+F-statistic: 8.521 on 1 and 52 DF,  p-value: 0.005177
+
+pitfall Hymenoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.6107 -0.6090 -0.2264  0.5458  6.7230 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)    2.427      0.344   7.053 4.96e-09 ***
+temp.mass     34.523     10.017   3.446  0.00116 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.566 on 50 degrees of freedom
+Multiple R-squared:  0.1919,	Adjusted R-squared:  0.1758 
+F-statistic: 11.88 on 1 and 50 DF,  p-value: 0.00116
+
+pitfall Lepidoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.06474 -0.06390 -0.06120 -0.05319  0.94248 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.06481    0.04658  22.858   <2e-16 ***
+temp.mass   -0.23442    0.71205  -0.329    0.744    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.2387 on 33 degrees of freedom
+Multiple R-squared:  0.003274,	Adjusted R-squared:  -0.02693 
+F-statistic: 0.1084 on 1 and 33 DF,  p-value: 0.7441
+
+pitfall Orthoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.1864 -0.6755  0.1094  0.2725  2.2746 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.6454     0.1454  11.317 1.61e-15 ***
+temp.mass     0.2801     0.1579   1.773   0.0822 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.7378 on 51 degrees of freedom
+Multiple R-squared:  0.05807,	Adjusted R-squared:  0.0396 
+F-statistic: 3.144 on 1 and 51 DF,  p-value: 0.08218
+
+sweep Coleoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.36994 -0.94297  0.01772  0.89865  2.85965 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.9324     0.1636  11.815 1.56e-15 ***
+temp.mass     3.2291     1.0619   3.041  0.00389 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.063 on 46 degrees of freedom
+Multiple R-squared:  0.1674,	Adjusted R-squared:  0.1493 
+F-statistic: 9.247 on 1 and 46 DF,  p-value: 0.003887
+
+sweep Diptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.2625 -1.8044  0.0337  1.1606  6.1154 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   2.7986     0.3565    7.85 5.71e-10 ***
+temp.mass     5.5168    14.9188    0.37    0.713    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.026 on 45 degrees of freedom
+Multiple R-squared:  0.00303,	Adjusted R-squared:  -0.01913 
+F-statistic: 0.1367 on 1 and 45 DF,  p-value: 0.7133
+
+sweep Hemiptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.5914 -0.5607 -0.2798  0.5293  3.4642 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.1747     0.2048   5.735 5.63e-07 ***
+temp.mass    37.1234     4.7404   7.831 3.04e-10 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.096 on 50 degrees of freedom
+Multiple R-squared:  0.5509,	Adjusted R-squared:  0.5419 
+F-statistic: 61.33 on 1 and 50 DF,  p-value: 3.035e-10
+
+sweep Hymenoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.9558 -0.6956 -0.5165  0.3885  3.3265 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)   1.5096     0.2032   7.428 1.08e-08 ***
+temp.mass    68.8648    11.5647   5.955 8.86e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.104 on 35 degrees of freedom
+Multiple R-squared:  0.5033,	Adjusted R-squared:  0.4891 
+F-statistic: 35.46 on 1 and 35 DF,  p-value: 8.857e-07
+
+sweep Lepidoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+         1          2          3          4          5          6 
+ 4.516e-16 -9.691e-17 -9.674e-17 -9.649e-17 -9.800e-17 -6.343e-17 
+
+Coefficients:
+              Estimate Std. Error    t value Pr(>|t|)    
+(Intercept)  1.000e+00  1.196e-16  8.359e+15   <2e-16 ***
+temp.mass   -8.350e-16  6.865e-15 -1.220e-01    0.909    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.478e-16 on 4 degrees of freedom
+Multiple R-squared:  0.4127,	Adjusted R-squared:  0.2658 
+F-statistic:  2.81 on 1 and 4 DF,  p-value: 0.169
+
+sweep Orthoptera
+Call:
+lm(formula = temp.frame)
+
+Residuals:
+       Min         1Q     Median         3Q        Max 
+-2.534e-16 -9.662e-17 -5.256e-17 -2.899e-17  2.544e-15 
+
+Coefficients:
+             Estimate Std. Error   t value Pr(>|t|)    
+(Intercept) 1.000e+00  1.169e-16 8.553e+15   <2e-16 ***
+temp.mass   2.234e-15  2.835e-15 7.880e-01    0.436    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.465e-16 on 34 degrees of freedom
+Multiple R-squared:  0.5032,	Adjusted R-squared:  0.4886 
+F-statistic: 34.44 on 1 and 34 DF,  p-value: 1.277e-06
+
