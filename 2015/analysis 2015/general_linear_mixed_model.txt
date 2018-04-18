@@ -1,6 +1,6 @@
 General Linear Mixed Model, negative binomial
 
-Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
  Family: poisson  ( log )
 Formula: family_count ~ mass + (1 | order) + (1 | method)
    Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
@@ -23,12 +23,12 @@ Fixed effects:
 (Intercept)  0.59879    0.29918   2.001   0.0453 *  
 mass         0.19436    0.01227  15.834   <2e-16 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Correlation of Fixed Effects:
      (Intr)
 mass -0.008
-Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
  Family: Negative Binomial(43.7543)  ( log )
 Formula: family_count ~ mass + (1 | order) + (1 | method)
    Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
@@ -51,12 +51,12 @@ Fixed effects:
 (Intercept)   0.6010     0.2929   2.052   0.0402 *  
 mass          0.2068     0.0145  14.263   <2e-16 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Correlation of Fixed Effects:
      (Intr)
 mass -0.009
-Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
  Family: Negative Binomial(43.7543)  ( log )
 Formula: family_count ~ mass + (1 | order) + (1 | method)
    Data: raw.data[with(raw.data, mass > 0 & family_count > 0), ]
@@ -79,7 +79,7 @@ Fixed effects:
 (Intercept)   0.6010     0.2929   2.052   0.0402 *  
 mass          0.2068     0.0145  14.263   <2e-16 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 
 Correlation of Fixed Effects:
      (Intr)
@@ -92,7 +92,7 @@ Model 2: family_count ~ mass + (1 | order) + (1 | method)
 1   4 -1785.5                        
 2   5 -1782.0  1 6.8946   0.008646 **
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
 Likelihood ratio test
 
 Model 1: family_count ~ mass + (1 | order) + (1 | method)
@@ -105,4 +105,4 @@ Model 4: family_count ~ mass + (1 | order)
 3   4 -2108.4  0 486.50  < 2.2e-16 ***
 4   4 -1878.4  0 460.06  < 2.2e-16 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 â€˜***â€™ 0.001 â€˜**â€™ 0.01 â€˜*â€™ 0.05 â€˜.â€™ 0.1 â€˜ â€™ 1
