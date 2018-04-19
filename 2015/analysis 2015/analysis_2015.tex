@@ -1,0 +1,94 @@
+\documentclass[10pt,a4paper,twocolumn]{article}
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[left=1cm,right=1cm,top=0.75cm,bottom=1.5cm]{geometry}
+\usepackage{gensymb}
+\usepackage{textgreek}
+\usepackage{xcolor}
+\usepackage[colorlinks]{hyperref}
+	\hypersetup{
+	colorlinks,
+	linkcolor={red!50!black},
+	citecolor={blue!60!black},
+	urlcolor={blue!40!black}
+	}
+\usepackage{titlesec}
+	\titleformat{\section}{\normalfont\normalsize\scshape}{\thesection}{1em}{}
+	\titleformat{\subsection}{\normalfont\normalsize\bfseries}{\thesubsection}{1em}{}
+	\titleformat{\subsubsection}[runin]{\normalfont\normalsize\itshape}{\thesubsubsection}{1em}{}
+	\titlespacing*{\section}{0pt}{5pt}{5pt}
+	\titlespacing*{\subsection}{0pt}{5pt}{5pt}
+	\titlespacing*{\subsubsection}{0pt}{5pt}{5pt}
+\usepackage{savetrees}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{courier}
+\usepackage{listings}
+	\lstset{
+		language=R,
+		basicstyle=\scriptsize\ttfamily,
+		commentstyle=\ttfamily\color{gray},
+		numbers=left,
+		numberstyle=\ttfamily\color{gray}\footnotesize,
+		stepnumber=1,
+		numbersep=5pt,
+		backgroundcolor=\color{white},
+		showspaces=false,
+		showstringspaces=false,
+		showtabs=false,
+		frame=single,
+		tabsize=2,
+		captionpos=b,
+		breaklines=true,
+		breakatwhitespace=false,
+		title=\lstname,   
+		commentstyle=\color{olive},
+		keywordstyle=\color{blue},
+		stringstyle=\color{purple},
+		aboveskip=-10pt,
+		belowskip=-10pt
+	}
+
+\renewcommand\labelenumi{\textbf{(\theenumi)}}
+\renewcommand{\thesubsection}{\thesection.\Alph{subsection}}
+
+\setlength{\textfloatsep}{2pt plus 1.0pt minus 2.0pt}
+\setlength{\floatsep}{2pt plus 2.0pt minus 2.0pt}
+\setlength{\abovecaptionskip}{2pt plus 1.0pt minus 2.0pt}
+
+\begin{document}
+
+\twocolumn[
+	\centering
+  	\begin{minipage}{.75\textwidth}
+    	\begin{center}
+      	\large Lab 14: Two-factor ANOVA
+      	\\
+      	BIO 614 
+      	-- Spring 2017 
+      	-- {\href{mailto:majanse1@asu.edu}{Andrew Jansen}}
+      	\\
+		\smallskip
+    		\nointerlineskip
+    		\hrulefill
+    	\end{center}
+\end{minipage}
+\medskip
+]
+	
+\newpage
+
+\appendix
+
+\onecolumn
+\section{R Script}
+\bigskip
+\small
+\lstset{numbers=left}
+\lstinputlisting{analysis.R}
+
+\end{document}
+
