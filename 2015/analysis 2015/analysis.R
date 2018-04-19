@@ -960,18 +960,6 @@ Analysis4 = function(raw.data) {
   dev.off()
 }
 
-# Analysis 5 -------------------------------------------------------------------
-#   comparisons between blocks for bulk diversity of pollinator families
-Analysis5 = function(raw.data) {
-  
-}
-
-# Analysis 6 -------------------------------------------------------------------
-#   comparisons between blocks for diversity of pollinator families, per order
-Analysis6 = function(raw.data) {
-  
-}
-
 # Main Function ----------------------------------------------------------------
 main = function() {
   #Clear workspace
@@ -1004,12 +992,6 @@ main = function() {
   
   readline(prompt = "fourth analysis: press enter to continue.")
   Analysis4(raw.data)
-  # 
-  # readline(prompt = "fifth analysis: press enter to continue.")
-  # Analysis5(raw.data)
-  # 
-  # readline(prompt = "sixth analysis: press enter to continue.")
-  # Analysis6(raw.data)
 }
 
 # Execute Code -----------------------------------------------------------------
