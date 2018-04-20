@@ -448,6 +448,7 @@ Analysis4 = function(raw.data) {
   bulk.lm = lm(family_count ~ mass,
                data = bulk.data[with(bulk.data, mass > 0 
                                      & family_count > 0), ])
+  capture.output(summary(bulk.lm), file = name, append = TRUE)
   
   plot(family_count ~ mass,
        data = bulk.data[with(bulk.data, mass > 0 & family_count > 0), ],
@@ -477,7 +478,7 @@ Analysis4 = function(raw.data) {
     )
     
     capture.output(cat(method.type, "bulk"), file = name, append = TRUE)
-    capture.output(summary(bulk.lm), file = name, append = TRUE)
+    capture.output(summary(lin.mod), file = name, append = TRUE)
     
     #scatterplot for each method
     abline(lin.mod, col = "blue")
@@ -789,8 +790,6 @@ Analysis4 = function(raw.data) {
   capture.output(summary(fit, test = "Pillai"), file = name, append = TRUE)
   print(summary.aov(fit, test = "Pillai"))
   
-  capture.output(cat(method.type, "\n\n"),
-                 file = name, append = TRUE)
   temp.data = super.bulk.data
   mass.model = lm(mass ~ block * event, temp.data)
   family.model = lm(family_count ~ block * event, temp.data)

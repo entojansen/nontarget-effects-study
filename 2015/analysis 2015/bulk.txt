@@ -1,6 +1,6 @@
 Analyses of Variance (bulk) 
 
-malaise bulk
+
 Call:
 lm(formula = family_count ~ mass, data = bulk.data[with(bulk.data, 
     mass > 0 & family_count > 0), ])
@@ -14,51 +14,71 @@ Coefficients:
 (Intercept)  15.2581     1.0427  14.633  < 2e-16 ***
 mass          2.7484     0.3373   8.147 8.12e-14 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Residual standard error: 9.744 on 168 degrees of freedom
 Multiple R-squared:  0.2832,	Adjusted R-squared:  0.2789 
 F-statistic: 66.38 on 1 and 168 DF,  p-value: 8.118e-14
+
+malaise bulk
+Call:
+lm(formula = family_count ~ mass, data = bulk.data[with(bulk.data, 
+    mass > 0 & family_count > 0 & method == method.type), ])
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-14.1048  -4.7708  -0.0931   5.3112  13.6548 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  28.8662     1.6744  17.240   <2e-16 ***
+mass          1.2777     0.5315   2.404   0.0194 *  
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 7.022 on 58 degrees of freedom
+Multiple R-squared:  0.0906,	Adjusted R-squared:  0.07492 
+F-statistic: 5.778 on 1 and 58 DF,  p-value: 0.01944
 
 pitfall bulk
 Call:
 lm(formula = family_count ~ mass, data = bulk.data[with(bulk.data, 
-    mass > 0 & family_count > 0), ])
+    mass > 0 & family_count > 0 & method == method.type), ])
 
 Residuals:
-    Min      1Q  Median      3Q     Max 
--25.942  -8.087  -1.648   6.974  22.107 
+     Min       1Q   Median       3Q      Max 
+-11.5617  -3.5484  -0.3737   3.1997  13.7907 
 
 Coefficients:
             Estimate Std. Error t value Pr(>|t|)    
-(Intercept)  15.2581     1.0427  14.633  < 2e-16 ***
-mass          2.7484     0.3373   8.147 8.12e-14 ***
+(Intercept)  18.6258     1.3714  13.582  < 2e-16 ***
+mass          0.8506     0.3145   2.704  0.00923 ** 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-Residual standard error: 9.744 on 168 degrees of freedom
-Multiple R-squared:  0.2832,	Adjusted R-squared:  0.2789 
-F-statistic: 66.38 on 1 and 168 DF,  p-value: 8.118e-14
+Residual standard error: 5.227 on 52 degrees of freedom
+Multiple R-squared:  0.1233,	Adjusted R-squared:  0.1064 
+F-statistic: 7.312 on 1 and 52 DF,  p-value: 0.009234
 
 sweep bulk
 Call:
 lm(formula = family_count ~ mass, data = bulk.data[with(bulk.data, 
-    mass > 0 & family_count > 0), ])
+    mass > 0 & family_count > 0 & method == method.type), ])
 
 Residuals:
     Min      1Q  Median      3Q     Max 
--25.942  -8.087  -1.648   6.974  22.107 
+-5.6268 -2.7884 -0.6754  1.8251 11.6687 
 
 Coefficients:
             Estimate Std. Error t value Pr(>|t|)    
-(Intercept)  15.2581     1.0427  14.633  < 2e-16 ***
-mass          2.7484     0.3373   8.147 8.12e-14 ***
+(Intercept)   6.5825     0.6353   10.36 1.91e-14 ***
+mass         19.2493     3.1451    6.12 1.09e-07 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-Residual standard error: 9.744 on 168 degrees of freedom
-Multiple R-squared:  0.2832,	Adjusted R-squared:  0.2789 
-F-statistic: 66.38 on 1 and 168 DF,  p-value: 8.118e-14
+Residual standard error: 3.961 on 54 degrees of freedom
+Multiple R-squared:  0.4096,	Adjusted R-squared:  0.3986 
+F-statistic: 37.46 on 1 and 54 DF,  p-value: 1.093e-07
 
 
 Call:
@@ -74,7 +94,7 @@ Coefficients:
 (Intercept)  15.2581     1.0427  14.633  < 2e-16 ***
 mass          2.7484     0.3373   8.147 8.12e-14 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Residual standard error: 9.744 on 168 degrees of freedom
 Multiple R-squared:  0.2832,	Adjusted R-squared:  0.2789 
@@ -102,7 +122,7 @@ Fixed effects:
 (Intercept) 2.822292   0.288393   9.786  < 2e-16 ***
 mass        0.038725   0.008436   4.590 4.43e-06 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Correlation of Fixed Effects:
      (Intr)
@@ -129,7 +149,7 @@ Fixed effects:
 (Intercept)  2.81687    0.28753   9.797  < 2e-16 ***
 mass         0.04115    0.01221   3.372 0.000747 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Correlation of Fixed Effects:
      (Intr)
@@ -142,7 +162,7 @@ Model 2: family_count ~ mass + (1 | method)
 1   3 -559.82                         
 2   4 -548.47  1 22.698  1.895e-06 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) [glmerMod]
  Family: poisson  ( log )
 Formula: family_count ~ mass + (1 | method)
@@ -165,7 +185,7 @@ Fixed effects:
 (Intercept) 2.822292   0.288393   9.786  < 2e-16 ***
 mass        0.038725   0.008436   4.590 4.43e-06 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Correlation of Fixed Effects:
      (Intr)
@@ -192,7 +212,7 @@ Fixed effects:
 (Intercept)  2.81687    0.28753   9.797  < 2e-16 ***
 mass         0.04115    0.01221   3.372 0.000747 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Correlation of Fixed Effects:
      (Intr)
@@ -205,7 +225,7 @@ Model 2: family_count ~ mass + (1 | method)
 1   3 -559.82                         
 2   4 -548.47  1 22.698  1.895e-06 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 malaise 
 
 sample mass 
@@ -216,7 +236,7 @@ event        4  35.37   8.843   5.038 0.00220 **
 block:event 12  40.88   3.407   1.941 0.05820 . 
 Residuals   40  70.22   1.755                   
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.6959 0.8006
@@ -455,7 +475,7 @@ event        4  510.3  127.58   5.316  0.00157 **
 block:event 12  878.2   73.18   3.049  0.00398 ** 
 Residuals   40  960.0   24.00                     
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.4024 0.9821
@@ -482,7 +502,7 @@ UTC-3 -8.666667 -13.4615465 -3.871787 0.0001108
 
 $event
          diff        lwr        upr     p adj
-2-1  4.583333  -1.1288498 0.1687989
+2-1  4.583333  -1.128849 10.2955159 0.1687989
 3-1 -0.250000  -5.962183  5.4621826 0.9999424
 4-1 -4.416667 -10.128849  1.2955159 0.1975702
 5-1 -1.583333  -7.295516  4.1288492 0.9315423
@@ -696,7 +716,7 @@ event        4  46.94  11.734   2.406 0.0654 .
 block:event 12  64.85   5.404   1.108 0.3806  
 Residuals   40 195.09   4.877                 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.9251 0.5588
@@ -716,7 +736,7 @@ $block
             diff        lwr       upr     p adj
 2-1   -0.0687800 -2.2302864 2.0927264 0.9997737
 3-1    1.1178667 -1.0436397 3.2793730 0.5151477
-UTC-1 -0.5929333 -2.7544397 1.568573050
+UTC-1 -0.5929333 -2.7544397 1.5685730 0.8823018
 3-2    1.1866467 -0.9748597 3.3481530 0.4637673
 UTC-2 -0.5241533 -2.6856597 1.6373530 0.9149355
 UTC-3 -1.7108000 -3.8723064 0.4507064 0.1637876
@@ -935,7 +955,7 @@ event        4  381.7   95.43   2.329 0.0726 .
 block:event 12  803.3   66.94   1.633 0.1210  
 Residuals   40 1639.3   40.98                 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.6779 0.8177
@@ -1413,7 +1433,7 @@ event        4  286.2   71.56   2.711 0.0435 *
 block:event 12  155.2   12.94   0.490 0.9085  
 Residuals   40 1056.0   26.40                 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.7016 0.7951
@@ -1442,11 +1462,11 @@ $event
          diff         lwr       upr     p adj
 2-1  5.583333 -0.40765429 11.574321 0.0781363
 3-1  3.000000 -2.99098762  8.990988 0.6123476
-4-18 -1.57432096 10.407654 0.2377807
+4-1  4.416667 -1.57432096 10.407654 0.2377807
 5-1  6.083333  0.09234571 12.074321 0.0450280
 3-2 -2.583333 -8.57432096  3.407654 0.7332401
 4-2 -1.166667 -7.15765429  4.824321 0.9805273
-5-2  0.500000 -5.49098762  6.490988 0.9992540
+5-2  0.500000 -5.490987628 0.9992540
 4-3  1.416667 -4.57432096  7.407654 0.9606173
 5-3  3.083333 -2.90765429  9.074321 0.5874063
 5-4  1.666667 -4.32432096  7.657654 0.9306911
@@ -1663,16 +1683,14 @@ bulk.data$event:bulk.data$method                 2.822e-05 ***
 bulk.data$block:bulk.data$event:bulk.data$method  0.066343 .  
 Residuals                                                     
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
                                             Df  Pillai approx F num Df den Df  Pr(>F)   
 super.bulk.data$block                        3 0.40424   3.3777      6     80 0.00509 **
 super.bulk.data$event                        4 0.39488   2.4601      8     80 0.01952 * 
 super.bulk.data$block:super.bulk.data$event 12 0.54293   1.2421     24     80 0.23373   
 Residuals                                   40                                          
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
-sweep 
-
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 bulk sample mass 
 
             Df Sum Sq Mean Sq F value Pr(>F)  
@@ -1681,7 +1699,7 @@ event        4   90.3   22.59   2.332 0.0722 .
 block:event 12  107.4    8.95   0.925 0.5324  
 Residuals   40  387.3    9.68                 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.9594 0.5228
@@ -1920,7 +1938,7 @@ event        4    888   222.1   1.937 0.123078
 block:event 12   2220   185.0   1.613 0.126981    
 Residuals   40   4587   114.7                     
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 Levene's Test for Homogeneity of Variance (center = median)
       Df F value Pr(>F)
 group 19  0.6943 0.8021
@@ -1941,7 +1959,7 @@ $block
 2-1     4.800000  -5.681472 15.28147163 0.6133778
 3-1    11.733333   1.251862 22.21480496 0.0229935
 UTC-1  -5.666667 -16.148138  4.81480496 0.4770975
-3-2     6.933333  -3.548138 17.41480496 0.3010455
+3-2     6.933333  -3.548138 17.4148049615
 UTC-2 -10.466667 -20.948138  0.01480496 0.0504420
 UTC-3 -17.400000 -27.881472 -6.91852837 0.0003776
 
